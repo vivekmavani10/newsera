@@ -1,0 +1,1307 @@
+{
+    "status": "ok",
+    "totalResults": 208,
+    -"articles": [
+    {
+    "source": {
+    "id": "time",
+    "name": "Time"
+    },
+    "author": "Megan McCluskey and Cady Lang",
+    "title": "At TIME100 Gala, Honorees Toast to the People and Causes That Matter to Them",
+    "description": "Comedian Maya Rudolph, athlete Patrick Mahomes, organizer Kelley Robinson, and actor Colman Domingo highlighted people and causes that matter to them.",
+    "url": "https://time.com/6968849/time100-gala-toasts-rudolph-mahomes-robinson-domingo-highlights/",
+    "urlToImage": "https://api.time.com/wp-content/uploads/2024/04/Time100-Gala-306.jpg?quality=85&crop=0px%2C0px%2C2400px%2C1256px&resize=1200%2C628&strip",
+    "publishedAt": "2024-04-26T04:20:00Z",
+    "content": "More than 400 guestsincluding actors, scientists, advocates, and musiciansgathered for the 2024 TIME100 Gala at New York Citys Jazz at Lincoln Center on Thursday for a ceremony recognizing this years… [+4406 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Filipe Espósito",
+    "title": "Former Apple researchers launch startup focused on protecting iOS devices",
+    "description": "Two former Apple employees who worked for the company as cybersecurity researchers are now launching their own startup. Called DoubleYou, the startup is focused on helping creators of cybersecurity products protect iOS devices and Macs.\n\n\n\n more…",
+    "url": "https://9to5mac.com/2024/04/25/former-apple-researchers-startup/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/09/apple-security-cloud.jpg.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2024-04-26T00:54:36Z",
+    "content": "Two former Apple employees who worked for the company as cybersecurity researchers are now launching their own startup. Called DoubleYou, the startup is focused on helping creators of cybersecurity p… [+1485 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Chance Miller",
+    "title": "Verizon reveals another price increase, this time for Apple Watch plans",
+    "description": "Verizon has another price increase on the way. In an email to customers on Thursday, the company revealed a $5 per month price increase affecting plans tied to Apple Watch and other connected smartwatches. \n\n\n\n more…",
+    "url": "https://9to5mac.com/2024/04/25/verizon-apple-watch-price-increase/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/01/verizon-settlement-how-to-claim.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2024-04-26T00:17:08Z",
+    "content": "Verizon has another price increase on the way. In an email to customers on Thursday, the company revealed a $5 per month price increase affecting plans tied to Apple Watch and other connected smartwa… [+1720 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Chip Loder)",
+    "title": "How to Use Apple Managed Device Attestation to secure networks",
+    "description": "Managed Device Attestation enables enterprises to verify Apple devices for security, protecting the corporate network. Here's how to use it.Apple Device Attestation.In our interconnected world, the issue of device identity plays a critical role in online secu…",
+    "url": "https://appleinsider.com/inside/ios-17/tips/how-to-use-apple-managed-device-attestation-to-secure-networks",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/59298-121129-lede-attestation-xl.jpg",
+    "publishedAt": "2024-04-26T01:39:12Z",
+    "content": "Apple Device Attestation.\r\nManaged Device Attestation enables enterprises to verify Apple devices for security, protecting the corporate network. Here's how to use it.\r\nIn our interconnected world, t… [+11609 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Gizmodo.jp"
+    },
+    "author": "三浦一紀",
+    "title": "今MacBookを買うとしたらどれ？ ギズモード編集部員＋ライターに聞いてみた",
+    "description": "迷える子羊なんですよ。僕、MacBookAir（M1）13インチを使っているんですが、購入してから4年目に突入。特に不満はありませんが、かなり酷使しているためちょっと全体的にくたびれてきているような…。なので新しいMacBookが気になってるんですよね。最近「よし、買い換えよう」と思っては、「どれにすればいいんだ」ってなること、数えきれず。MacBookの現行ラインアップは以下になります。MacB",
+    "url": "https://www.gizmodo.jp/2024/04/macbook-buy.html",
+    "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2024/04/25/P1080988_2.jpg?w=1280&h=630&f=jpg",
+    "publishedAt": "2024-04-26T03:00:00Z",
+    "content": "MacBook AirM1134\r\nMacBook\r\nMacBook\r\nMacBook AirM213 144800\r\nMacBook AirM313 164800\r\nMacBook AirM315 199800\r\nMacBook ProM314 248800\r\nMacBook ProM3 ProM3 Max14 328800\r\nMacBook ProM3 ProM3 Max16 398800\r… [+624 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Phandroid - News for Android"
+    },
+    "author": "Tyler Lee",
+    "title": "Snapdragon X Elite benchmarks should have Apple worried",
+    "description": "Recent Geekbench benchmarks have revealed that the Qualcomm Snapdragon X Elite can hold its own against Apple’s M3.\nThe post Snapdragon X Elite benchmarks should have Apple worried appeared first on Phandroid.",
+    "url": "https://phandroid.com/2024/04/26/snapdragon-x-elite-benchmarks-should-have-apple-worried/",
+    "urlToImage": "https://phandroid.com/wp-content/uploads/2021/06/Microsoft-Surface-Duo-2__7851.jpg",
+    "publishedAt": "2024-04-26T04:01:24Z",
+    "content": "During the Snapdragon Summit last year, Qualcomm unveiled its new Snapdragon X Elite chipset. This is a new chipset that is designed to compete against the Apple Silicon and bring more Arm-based comp… [+1223 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "HYPEBEAST"
+    },
+    "author": "info@hypebeast.com (Hypebeast)",
+    "title": "PARTYNEXTDOOR Delivers His First Album in Four Years, 'PARTYNEXTDOOR 4'",
+    "description": "PARTYNEXTDOOR is back with his first studio effort in four years, PARTYNEXTDOOR 4.Clocking in at 45 minutes, the 14-track record features the previously-released singles \"L o s e M y M i n d,\" \"R e a l W o m a n\" and \"R e s e n t m e n t.\" P4 hears the OVO So…",
+    "url": "https://hypebeast.com/2024/4/pnd-partynextdoor-4-album-stream",
+    "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2024%2F04%2F25%2Fpnd-partynextdoor-4-album-stream-tw.jpg?w=1080&cbr=1&q=90&fit=max",
+    "publishedAt": "2024-04-26T04:03:58Z",
+    "content": "PARTYNEXTDOOR is back with his first studio effort in four years, PARTYNEXTDOOR 4.\r\nClocking in at 45 minutes, the 14-track record features the previously-released singles “L o s e M y M i n d,” “R e… [+640 chars]"
+    },
+    {
+    "source": {
+    "id": "die-zeit",
+    "name": "Die Zeit"
+    },
+    "author": "ZEIT ONLINE: Unternehmen - Maline Hofmann",
+    "title": "Tiktok: ByteDance weist Bericht über Verkaufspläne von Tiktok zurück",
+    "description": "Der US-Kongress hatte Tiktok in einem Ultimatum aufgefordert, sich von seinem chinesischen Mutterkonzern zu lösen. Ein Verkauf ist laut ByteDance trotzdem nicht geplant.",
+    "url": "https://www.zeit.de/wirtschaft/unternehmen/2024-04/tiktok-bytedance-keinen-verkauf-china-usa-ultimatum",
+    "urlToImage": "https://img.zeit.de/administratives/sharing/fallback-image/wide__1300x731",
+    "publishedAt": "2024-04-26T04:40:34Z",
+    "content": "Trotz eines US-Ultimatums will Bytedance, der chinesische Mutterkonzern von Tiktok, die Plattform nach eigener Aussage nicht verkaufen. \"Ausländische Medienberichte darüber, dass Bytedance den Verkau… [+1931 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Faz.net"
+    },
+    "author": null,
+    "title": "Champs-Élysées: Die Luxusmarken kehren zurück",
+    "description": "Einst die mondäne Ausgehmeile schlechthin, verkaufte sich die Prachtstraße Champs-Élysées lange unter Wert. Vor den Olympischen Spielen wird die bekannteste Avenue von Paris nun grüner, nobler – und immer voller.",
+    "url": "https://www.faz.net/aktuell/stil/champs-elysees-die-luxusmarken-kehren-zurueck-19663332.html",
+    "urlToImage": null,
+    "publishedAt": "2024-04-26T05:36:21Z",
+    "content": "Wie eine gemütliche Einkaufsstraße wirken die Champs-Élysées nicht. Immer wieder rattern Autos, Transporter und Lastwagen über das Kopfsteinpflaster der leicht ansteigenden Avenue, hinauf zum Triumph… [+14336 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Les Numériques"
+    },
+    "author": "Corentin Bechade",
+    "title": "Actualité : Apple broie des milliers d’iPhone fonctionnels plutôt que de les réparer ou les reconditionner",
+    "description": "Une longue enquête publiée par le média Bloomberg dévoile les coulisses des centres de recyclage d’iPhone. Entre vol de marchandises, culte du secret et bras de fer industriel, on découvre aussi qu’Apple broie des milliers de téléphones qui pourraient pourtan…",
+    "url": "https://www.lesnumeriques.com/telephone-portable/apple-broie-des-milliers-d-iphone-fonctionnels-plutot-que-de-les-reparer-ou-les-reconditionner-n221103.html",
+    "urlToImage": "https://cdn.lesnumeriques.com/optim/news/22/221103/a9d5c64f-apple-broie-des-milliers-d-iphone-fonctionnels-plutot-que-de-les-reparer-ou-les-reconditionner__1200_678__overflow.jpg",
+    "publishedAt": "2024-04-26T04:45:00Z",
+    "content": "Des milliers d'iPhone sont réduits en poudre au lieu d'être réutilisés\r\n© Parilov / Shutterstock\r\nÀ loccasion du Jour de la terre 2024, Apple a mis en avant ses progrès dans le recyclage diPhone, not… [+4382 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Xatakamovil.com"
+    },
+    "author": "Iván Ramírez",
+    "title": "Honor Magic 200 Lite 5G: un gama media a tope de megapíxeles, ligero y muy delgado",
+    "description": "Honor ha estrenado la serie 200 con el Honor 200 Lite 5G, un nuevo móvil de gama media con Dimensity 6080 que llega unos seis meses después de los Honor 100 anteriores.\n<!-- BREAK 1 -->\nEl Honor 200 Lite 5G destaca por ser especialmente fino y ligero (6,78 mi…",
+    "url": "https://www.xatakamovil.com/honor/honor-200-lite-5g-caracteristicas-precio-ficha-tecnica",
+    "urlToImage": "https://i.blogs.es/21991d/honor200lite/840_560.jpeg",
+    "publishedAt": "2024-04-26T06:45:28Z",
+    "content": "Honor ha estrenado la serie 200 con el Honor 200 Lite 5G, un nuevo móvil de gama media con Dimensity 6080 que llega unos seis meses después de los Honor 100 anteriores.\r\nEl Honor 200 Lite 5G destaca … [+2569 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Ifanr.com"
+    },
+    "author": "何晓涵",
+    "title": "早报|小米汽车 SU7 锁单量超 75723 台/新加坡成亚洲首个试水四天工作制国家/字节跳动称没有出售 TikTok 的计划",
+    "description": "· 马斯克 xAI 或将融资 60 亿美元\n· 苹果首次发布开源语言模型\n· NVIDIA 举办 RTX AI 媒体品鉴会#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n爱范儿 |\n原文链接 ·\n查看评论 ·\n新浪微博",
+    "url": "https://www.ifanr.com/1583180",
+    "urlToImage": "https://s3.ifanr.com/images/ep/cover-images/shu_ben_cover.jpg",
+    "publishedAt": "2024-04-26T01:03:42Z",
+    "content": "TikTok \r\nTikTok TikTok \r\nTikTok CEO TikTok TikTok 1.7 TikTok 1.7 \r\n 4 24 950 TikTok \r\nSU7 75723 \r\nSU7 4 24 75723 26 5781 \r\n 4 Pro 4 18 5 Pro 6 1 10 \r\n OTA 5 CarPlay 5 10 \r\nxAI 60 \r\nxAI \r\n xAI 60 xAI … [+1281 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Yahoo Entertainment"
+    },
+    "author": "Vlad Savov",
+    "title": "Huawei’s New Phone Sports Latest Version of Made-in-China Chip",
+    "description": "(Bloomberg) -- Huawei Technologies Co.’s latest smartphones carry a version of the advanced made-in-China processor it revealed last year, independent...",
+    "url": "https://finance.yahoo.com/news/huawei-phone-sports-latest-version-005932683.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/k0pKsRhnb0kXtDZzzGFosw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDc-/https://media.zenfs.com/en/bloomberg_technology_68/0fab994f4035777efdb7271d776b9694",
+    "publishedAt": "2024-04-26T00:59:32Z",
+    "content": "(Bloomberg) -- Huawei Technologies Co.s latest smartphones carry a version of the advanced made-in-China processor it revealed last year, independent analysis revealed, underscoring the Chinese compa… [+1846 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Deadline"
+    },
+    "author": "Antonia Blyth",
+    "title": "20 Questions On Deadline Podcast: Jimmy Fallon Celebrates 10 Years Of ‘The Tonight Show’, Recalls Pranking Nicole Kidman & Ping Pong With Prince",
+    "description": "If you’ve ever wondered what it’s like to play ping-pong with Prince you’ve come to the right place. On this week’s episode of 20 Questions on Deadline, Jimmy Fallon tells a frankly bizarre story about the “Purple Rain” legend and his penchant for table tenni…",
+    "url": "http://deadline.com/2024/04/20-questions-on-deadline-podcast-jimmy-fallon-the-tonight-show-interview-news-1235895744/",
+    "urlToImage": "https://deadline.com/wp-content/uploads/2024/04/FALLON-DEADLINE-IMAGE.jpg?w=1024",
+    "publishedAt": "2024-04-26T00:17:49Z",
+    "content": "If you’ve ever wondered what it’s like to play ping-pong with Prince you’ve come to the right place. On this week’s episode of 20 Questions on Deadline, Jimmy Fallon tells a frankly bizarre story abo… [+1011 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Digiday"
+    },
+    "author": "Kimeko McCoy",
+    "title": "X’s latest brand safety snafu keeps advertisers at bay",
+    "description": "For all X has done to try and make advertisers believe it’s a platform that’s safe for brands, advertisers remain unconvinced, and the latest headlines don’t help.",
+    "url": "http://digiday.com/marketing/xs-latest-brand-safety-snafu-keeps-advertisers-at-bay/",
+    "urlToImage": "https://digiday.com/wp-content/uploads/sites/3/2023/01/twitter-flatline-digiday-gif.gif",
+    "publishedAt": "2024-04-26T04:01:00Z",
+    "content": "For all X has done to try and make advertisers believe its a platform thats safe for brands, advertisers remain unconvinced and the latest headlines dont help.X CEO Linda Yaccarino has since responde… [+4841 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Impress.co.jp"
+    },
+    "author": null,
+    "title": "iPadやApple WatchなどApple製品が最大20％割引、ヨドバシとビックのECサイトで",
+    "description": "ヨドバシカメラとビックカメラのECサイトで、アップル（Apple）製品が特別価格で購入できるキャンペーンが実施されている。期間は5月6日まで。",
+    "url": "https://k-tai.watch.impress.co.jp/docs/news/1587685.html",
+    "urlToImage": "https://k-tai.watch.impress.co.jp/img/ktw/list/1587/685/cont1.jpg",
+    "publishedAt": "2024-04-26T03:16:04Z",
+    "content": "ECApple56 \r\n iPadAirPodsApple Watch \r\n 10.2iPad964GB44800256GB66800iPad mini664GB71800 \r\n MagSafeUSB-CAirPods Pro234800Apple Watch Series 9GPS41mm54800 \r\n AirTag20"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Clubic"
+    },
+    "author": "Corentin Béchade",
+    "title": "Avec son Surface Laptop 6, Microsoft veut directement concurrencer les Mac M3/M3 Pro d’Apple",
+    "description": "Microsoft est bien décidée à ne pas laisser Apple dominer seul le marché des ordinateurs ARM. Sur Geekbench, un Surface Laptop 6 équipé d’une puce Qualcomm vient faire de l’ombre aux MacBook Pro de dernière génération.",
+    "url": "https://www.clubic.com/actualite-525246-avec-son-surface-laptop-6-microsoft-veut-directement-concurrencer-les-mac-m3-m3-pro-d-apple.html",
+    "urlToImage": "https://pic.clubic.com/v1/images/2202966/raw",
+    "publishedAt": "2024-04-26T05:44:00Z",
+    "content": "Serait-ce enfin lheure de Windows sur ARM? Après avoir patienté des années avant de lancer une nouvelle génération de PC capable de rivaliser avec les derniers Mac dApple, il semblerait que Microsoft… [+1563 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "DIE WELT"
+    },
+    "author": "Christin Rodrigues",
+    "title": "Ultimatum an Tiktok – wird die Plattform in den USA verboten?",
+    "description": "Der US-Senat hat ein Gesetz verabschiedet, nach dem TikTok in den USA verboten werden könnte. Der chinesische Mutterkonzern soll alle Anteile verkaufen. Wie realistisch das ist und was es für Europa bedeuten könnte, erklärt Wirtschaftsredakteur Benedikt Fuest.",
+    "url": "https://www.welt.de/podcasts/article251228494/Ultimatum-an-Tiktok-wird-die-Plattform-in-den-USA-verboten.html",
+    "urlToImage": "https://img.welt.de/img/podcasts/mobile250783598/7091355987-ci16x9-w1200/DWO-Podcast-Teaser-Das-bringt-der-Tag-rodrigues-aw.jpg",
+    "publishedAt": "2024-04-26T02:57:04Z",
+    "content": "Hier können Sie die aktuelle Folge von Das bringt der Tag direkt hören:\r\nAbonnieren Sie den Podcast unter anderem bei Spotify, Apple Podcasts oder Amazon Music.\r\nDas bringt der Tag jeden Morgen ab 5 … [+805 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Techbang.com"
+    },
+    "author": "IFENG",
+    "title": "Meta開放Quest眼鏡作業系統Horizon OS：華碩、聯想將成第三方廠商，VR界的Android來了？",
+    "description": "圍剿Vision Pro？Meta宣佈開放眼鏡作業系統 華碩聯想等已“入夥”\n祖克柏的元宇宙雄心又有了新的大動作，Meta表示將首次向包括微軟在內的競爭對手裝置製造商開放其Quest眼鏡作業系統，讓更多的廠商可以加入Meta的元宇宙。\nQuest眼鏡作業系統：Meta Horizon OS首次開放\nMeta表示，此舉將使合作夥伴公司能夠使用其Meta Horizon OS作業系統來打造他們的眼鏡。「Meta Horizon OS」也是Meta為其眼鏡裝置Quest系列的作業系統起的新名字，該作業系統可為在其上運行…",
+    "url": "https://www.techbang.com/posts/114875-vision-prometa",
+    "urlToImage": "https://cdn0.techbang.com/system/excerpt_images/114875/original/527c7f4324a6e6abb48e84c4953b10d9.jpg?1713954292",
+    "publishedAt": "2024-04-26T06:00:00Z",
+    "content": "MetaQuestMeta\r\nQuestMeta Horizon OS\r\nMetaMeta Horizon OSMeta Horizon OSMetaQuest\r\nMetaMeta Quest\r\nVRAndroid\r\nMetaVRMRGoogleAndroid\r\nMetaGoogleMeta Horizon OSAndroid\r\nInstagram\r\nMetaMeta Horizon OS\r\nM… [+140 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Forbes"
+    },
+    "author": "Charlie Fink, Contributor, \n Charlie Fink, Contributor\n https://www.forbes.com/sites/charliefink/",
+    "title": "Perplexity AI Raises $63 Million, Vision Pro Sales Slow, Meta Takes A Tumble",
+    "description": "Wearable AI that knows who you are, where you are, and what you are doing, is the holy grail of tech.",
+    "url": "https://www.forbes.com/sites/charliefink/2024/04/26/perplexity-ai-raises-63-million-vision-pro-sales-slow-meta-takes-a-tumble/",
+    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/662b3999d34ed1d761908077/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+    "publishedAt": "2024-04-26T05:39:54Z",
+    "content": "Aravind Srinivas, CEO of Perplexity, speaks during the Semafor 2024 World Economy Summit in ... [+] Washington, DC in Washington, DC, on April 18, 2024. (Photo by SAUL LOEB / AFP) (Photo by SAUL LOEB… [+9119 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Forbes"
+    },
+    "author": "Jay Paris, Contributor, \n Jay Paris, Contributor\n https://www.forbes.com/sites/jayparis/",
+    "title": "The Chargers Continue Their Quest To Build Muscle Beach With Alt Pick",
+    "description": "Hortiz and Harbaugh make good on their quest to get tough with their selection of the massive Alt, an All-American offensive tackle from Notre Dame.",
+    "url": "https://www.forbes.com/sites/jayparis/2024/04/25/the-chargers-continue-their-quest-to-build-muscle-beach-with-alt-pick/",
+    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/662b007f4be729935db1e2dd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+    "publishedAt": "2024-04-26T02:19:01Z",
+    "content": "The Los Angeles Chargers selected Notre Dame offensive lineman Joe Alt (76) with the fifth pick of ... [+] the NFL draft on Thursday. Alt was an All-American last year with the Fighting Irish. (AP Ph… [+2416 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Iphoneitalia.com"
+    },
+    "author": "Giuseppe Migliorino",
+    "title": "Il Congo accusa Apple di utilizzare minerali prelevati illegalmente dai fornitori",
+    "description": "I minerali utilizzati su diversi dispositivi Apple rientrerebbero nella lista dei \"minerali di conflitto\" secondo le accuse del Congo. \nLink all'articolo originale: Il Congo accusa Apple di utilizzare minerali prelevati illegalmente dai fornitori",
+    "url": "https://www.iphoneitalia.com/825449/congo-accusa-apple-minerali",
+    "urlToImage": "https://static.iphoneitalia.com/wp-content/uploads/2019/02/Conflict-Minerals-Report1.jpg",
+    "publishedAt": "2024-04-26T06:15:15Z",
+    "content": "La Repubblica Democratica del Congo ha accusato Apple di utilizzare minerali sfruttati illegalmente provenienti dalle regioni orientali, con situazioni come violenza, lavoro minorile e altre violazio… [+1554 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Olhardigital.com.br"
+    },
+    "author": "Ana Julia Pilato",
+    "title": "Qualcomm vai expandir linha de processadores Snapdragon",
+    "description": "Empresa deve lançar atualização do X Elite e novo modelo X Plus ainda este ano\nO post Qualcomm vai expandir linha de processadores Snapdragon apareceu primeiro em Olhar Digital.",
+    "url": "https://olhardigital.com.br/2024/04/26/pro/qualcomm-vai-expandir-linha-de-processadores-snapdragon/",
+    "urlToImage": "https://img.odcdn.com.br/wp-content/uploads/2023/09/Qualcomm-2.jpg",
+    "publishedAt": "2024-04-26T05:20:00Z",
+    "content": "A linha Snapdragon, da Qualcomm, vai ganhar novos modelos de processadores em breve. Além de uma grande atualização para o modelo Snapdragon X Elite, anunciada no ano passado, a empresa também comuni… [+1945 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Biztoc.com"
+    },
+    "author": "wheresyoured.at",
+    "title": "The Men Who Killed Google",
+    "description": "Wanna listen to this story instead? Check out this week's Better Offline podcast, \"The Man That Destroyed Google Search,\" available on Apple Podcasts, Spotify, and anywhere else you get your podcasts. This is the story of how Google Search died, and the peopl…",
+    "url": "https://biztoc.com/x/e1cea9858d5dde35",
+    "urlToImage": "https://c.biztoc.com/p/e1cea9858d5dde35/s.webp",
+    "publishedAt": "2024-04-26T00:50:13Z",
+    "content": "Wanna listen to this story instead? Check out this week's Better Offline podcast, \"The Man That Destroyed Google Search,\" available on Apple Podcasts, Spotify, and anywhere else you get your podcasts… [+298 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Biztoc.com"
+    },
+    "author": "abcnews.go.com",
+    "title": "Google parent reports another quarter of robust growth, rolls out first-ever quarterly dividend",
+    "description": "Google’s corporate parent Alphabet Inc. has released a quarterly report showing it’s still reaping double-digit revenue gains from its digital advertising empire while sowing potentially lucrative new ground in artificial intelligence Google’s corporate paren…",
+    "url": "https://biztoc.com/x/a18e21ffa5cd9ae0",
+    "urlToImage": "https://c.biztoc.com/p/a18e21ffa5cd9ae0/s.webp",
+    "publishedAt": "2024-04-26T01:26:05Z",
+    "content": "Googles corporate parent Alphabet Inc. has released a quarterly report showing its still reaping double-digit revenue gains from its digital advertising empire while sowing potentially lucrative new … [+307 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Netafull.net"
+    },
+    "author": "コグレマサト",
+    "title": "「Apple Watch Series 8/Series 9」Amazonで最大38%オフのタイムセール中",
+    "description": "Amazonタイムセールで「Apple製品がお買い得」として「Apple Watch Series 9」が最大10%オフ、そして「Apple Watch Series 8」が最大38%オフになっています。加えて、ポイント...\n投稿 「Apple Watch Series 8/Series 9」Amazonで最大38%オフのタイムセール中 は ネタフル に最初に表示されました。",
+    "url": "https://netafull.net/amazon-sale/0149557.html",
+    "urlToImage": "https://netafull.net/wp-content/uploads/2024/04/317l6vbjcnL._SL500.jpg",
+    "publishedAt": "2024-04-26T01:00:00Z",
+    "content": "AmazonAppleApple Watch Series 910%Apple Watch Series 838%1%\r\nApple Watch Series 8Apple Watch Series 9Apple\r\nApple Watch Series 8 GPS + Cellular41mm \r\n74,800 59,50020%\r\nApple Watch Series 8 GPS + Cell… [+330 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Netafull.net"
+    },
+    "author": "コグレマサト",
+    "title": "「iPad mini」Amazonで最大9%オフのタイムセール中",
+    "description": "Amazonタイムセールで「Apple製品がお買い得」として「iPad mini」が最大9%オフになっています。加えて、ポイント1%還元もあります。 「iPad mini」が最大15%オフ 2021 Apple iPad...\n投稿 「iPad mini」Amazonで最大9%オフのタイムセール中 は ネタフル に最初に表示されました。",
+    "url": "https://netafull.net/amazon-sale/0149547.html",
+    "urlToImage": "https://netafull.net/wp-content/uploads/2022/05/41GDDz8UImL._SL500.jpg",
+    "publishedAt": "2024-04-26T00:30:00Z",
+    "content": "AmazonAppleiPad mini9%1%\r\n2021 Apple iPad mini (Wi-Fi, 256GB) – \r\n102,800 95,8007%\r\n2021 Apple iPad mini (Wi-Fi, 256GB) – \r\n102,800 95,8007%\r\n2021 Apple iPad mini (Wi-Fi, 256GB) – \r\n102,800 95,8007%\r… [+338 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Netafull.net"
+    },
+    "author": "コグレマサト",
+    "title": "「MacBook Pro」Amazonで最大24%オフのタイムセール中",
+    "description": "Amazonタイムセールで「Apple製品がお買い得」として「MacBook Pro」が最大24%オフになっています。加えて、ポイント1%還元もあります。 「MacBook Pro」が最大24%オフ Apple 2023...\n投稿 「MacBook Pro」Amazonで最大24%オフのタイムセール中 は ネタフル に最初に表示されました。",
+    "url": "https://netafull.net/amazon-sale/0149550.html",
+    "urlToImage": "https://netafull.net/wp-content/uploads/2024/04/31xMbICSNnL._SL500.jpg",
+    "publishedAt": "2024-04-26T00:30:00Z",
+    "content": "AmazonAppleMacBook Pro24%1%\r\nApple 2023 MacBook Pro M2 Pro\r\n317,091 255,00020%\r\nApple 2023 MacBook Pro M2 Max\r\n408,000 335,00018%\r\nApple 2022 13MacBook Pro: 8CPU10GPU\r\n264,364 202,00024%\r\nApple 2022 … [+43 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Netafull.net"
+    },
+    "author": "コグレマサト",
+    "title": "「iPad」Amazonで10%オフのタイムセール中",
+    "description": "Amazonタイムセールで「Apple製品がお買い得」として「iPad」が10%オフになっています。加えて、ポイント1%還元もあります。 「iPad」が10%オフ 2021 Apple 10.2インチiPad (Wi-F...\n投稿 「iPad」Amazonで10%オフのタイムセール中 は ネタフル に最初に表示されました。",
+    "url": "https://netafull.net/amazon-sale/0149554.html",
+    "urlToImage": "https://netafull.net/wp-content/uploads/2024/04/31ZOUewJsuL._SL500.jpg",
+    "publishedAt": "2024-04-26T01:00:00Z",
+    "content": "AmazonAppleiPad10%1%\r\n2021 Apple 10.2iPad (Wi-Fi, 64GB) – \r\n49,800 44,80010%\r\n2021 Apple 10.2iPad (Wi-Fi, 64GB) – \r\n49,800 44,80010%"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Netafull.net"
+    },
+    "author": "コグレマサト",
+    "title": "【Mac整備済製品】MacBook Pro・iMac・Mac mini・Mac Studio・ディスプレイ【2024年4月26日】",
+    "description": "Apple公式サイトの「Mac整備済製品」の情報です。 Appleの整備済み品は問題があって返品された商品などを整備し、テスト後認定されたものです。1年間の特別保証が付いています。 最新の在庫情報は「Apple整備済製品...\n投稿 【Mac整備済製品】MacBook Pro・iMac・Mac mini・Mac Studio・ディスプレイ【2024年4月26日】 は ネタフル に最初に表示されました。",
+    "url": "https://netafull.net/apple-refurbished/0149564.html",
+    "urlToImage": "https://netafull.net/wp-content/uploads/2022/12/apple-refurbished-mac.jpg",
+    "publishedAt": "2024-04-26T02:30:00Z",
+    "content": "AppleMac\r\nApple1\r\nApple\r\nMac mini [] 8CPU10GPUApple M271,800\r\n24iMac [] 8CPU7GPUApple M1 – 144,800\r\n24iMac [] 8CPU7GPUApple M1 – 144,800\r\n24iMac [] 8CPU7GPUApple M1 – 144,800\r\n24iMac [] 8CPU8GPUApple… [+4523 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Tinhte.vn"
+    },
+    "author": "no-reply@tinhte.vn (P.W), P.W",
+    "title": "Benchmark Snapdragon X Elite: Ở xung 4 GHz, hiệu năng đa nhân cao hơn Apple M3 16%",
+    "description": "Chiếc laptop được cho là Microsoft Surface Laptop 6 sắp ra mắt đã được hé lộ sức mạnh nhân CPU kiến trúc Oryon, chạy ở xung nhịp 4.0 GHz trên thư viện của Geekbench 6. Điểm số benchmark đơn nhân và đa nhân lần lượt là 2714 và 14078.",
+    "url": "https://tinhte.vn/thread/benchmark-snapdragon-x-elite-o-xung-4-ghz-hieu-nang-da-nhan-cao-hon-apple-m3-16.3781798/",
+    "urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2024/04/8318415_Snapdragon-X-Elite-4-1.jpg",
+    "publishedAt": "2024-04-26T02:07:31Z",
+    "content": "iu áng nói ây là, Snapdragon X Elite trong Microsoft Surface Laptop 6 c em ra th nghim hiu nng CPU hoàn toàn không phi phiên bn mnh nht mà Qualcomm tung ra th trng. Snapdragon X s có 4 phiên bn, c th… [+441 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Tinhte.vn"
+    },
+    "author": "no-reply@tinhte.vn (Anh Tú.), Anh Tú.",
+    "title": "Một người ở California đã sử dụng AirTag để tìm ra chiếc BMW bị trộm của mình",
+    "description": "Mới đây tại California, một người đàn ông đã sử dụng Apple Air Tag và camera hành trình để tìm lại chiếc BMW bị trộm của mình. Philip Obando thức dậy vào một buổi sáng và phát hiện chiếc BMW của mình đã biến mất.",
+    "url": "https://tinhte.vn/thread/mot-nguoi-o-california-da-su-dung-airtag-de-tim-ra-chiec-bmw-bi-trom-cua-minh.3781591/",
+    "urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2024/04/8317986_59426-121288-0-115463-AirTag-Keys-xl-xl.jpg",
+    "publishedAt": "2024-04-26T04:38:12Z",
+    "content": "S dng ng dng Find My, Obando ã theo dõi c hành trình ca tên trm khi hn lái xe qua Long Beach. Tên trm ã ng trong xe, thay i bin s, và thm chí còn a xe qua trm ra xe. n lúc này, Obando và v quyt nh tr… [+1232 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "[Removed]"
+    },
+    "author": null,
+    "title": "[Removed]",
+    "description": "[Removed]",
+    "url": "https://removed.com",
+    "urlToImage": null,
+    "publishedAt": "1970-01-01T00:00:00Z",
+    "content": "[Removed]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Roomie.jp"
+    },
+    "author": "かいサポ（お買いものサポーター）",
+    "title": "10.9インチ無印iPadの最新モデルが約5千円引き！エンタメも作業もサクサク快適です＃Amazonセール",
+    "description": "Amazon（アマゾン）で毎日開催されているタイムセール。\r\n\r\n本日2024年4月26日は、<strong>無印iPadの最新モデル「2022 Apple 10.9インチiPad」が7％オフ</strong>や、<strong>鉛筆のように自然に使える「Apple Pencil（USB-C）」が過去最安値</strong>などエンタメや作業にも大活躍のApple商品がお得に登場しています。",
+    "url": "https://www.roomie.jp/2024/04/1216476/",
+    "urlToImage": "https://media.loom-app.com/roomie/dist/images/2024/04/RM-12.jpg?w=1200",
+    "publishedAt": "2024-04-26T06:15:24Z",
+    "content": "Amazon\r\n2024426iPad2022 Apple 10.9iPad7Apple PencilUSB-CApple\r\n202442612\r\n12AmazonAudible30\r\nKindle Unlimited20030\r\n2022 Apple 10.9iPad7\r\n2022iPad(10)7\r\niPad Air(5)10.9\r\nMagic Keyboard Folio\r\niPad(10… [+394 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Elespanol.com"
+    },
+    "author": "Daniel González",
+    "title": "FREE FIRE MAX | Códigos de hoy viernes 26 de abril de 2024 - Recompensas gratis",
+    "description": "Estos son todos los códigos gratis de Garena Free Fire MAX que podrás canjear hoy, viernes 26 de abril de 2024. Consigue recompensas como skins, diamantes y mucho más.<!--aa--->El éxito para móviles Android e iOS, Garena Free Fire MAX, ha recibido nuevos códi…",
+    "url": "https://vandal.elespanol.com/noticia/1350770838/free-fire-max-codigos-de-hoy-viernes-26-de-abril-de-2024-recompensas-gratis/",
+    "urlToImage": "https://media.vandal.net/ivandal/12/63/1200x630/4/4-2024/26/2024426835889_1.jpg",
+    "publishedAt": "2024-04-26T06:06:00Z",
+    "content": "El éxito para móviles Android e iOS, Garena Free Fire MAX, ha recibido nuevos códigos diarios para hoy viernes 26 de abril de 2024. Los jugadores pueden canjear estos códigos para recibir recompensas… [+2726 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Taisy0.com"
+    },
+    "author": "taisy0",
+    "title": "ヤマダウェブコム、｢Apple Watch｣シリーズを特別価格で販売するGWセールを開催中（5月6日まで）",
+    "description": "ヤマダウェブコムが、本日よりAppleの「Apple Watch」シリーズを特別価格で販売する「ゴールデンウィーク Apple フェア」のセールを開催しています。 対象となっているのは、「Apple Watch SE」「Apple Watc",
+    "url": "https://taisy0.com/2024/04/26/197536.html",
+    "urlToImage": "https://taisy0.com/wp-content/uploads/2024/04/yamadaapwsale202405gw.jpg",
+    "publishedAt": "2024-04-26T03:05:15Z",
+    "content": "AppleApple Watch Apple \r\nApple Watch SEApple Watch SE 2Apple Watch Series 8Apple Watch Series 9Apple Watch Ultra5\r\nApple Watch SE33,800Apple Watch SE 233,800Apple Watch Series 847,800Apple Watch Seri… [+48 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Taisy0.com"
+    },
+    "author": "taisy0",
+    "title": "Anker、Qi2対応のワイヤレス充電ステーション｢Anker MagGo Wireless Charging Station (3-in-1 Pad)｣を発売",
+    "description": "本日、Ankerが、Qi2に対応したワイヤレス充電ステーション「Anker MagGo Wireless Charging Station (3-in-1 Pad)」を発売しました。 「Anker MagGo Wireless Chargi",
+    "url": "https://taisy0.com/2024/04/26/197521.html",
+    "urlToImage": "https://taisy0.com/wp-content/uploads/2024/04/AnkerMagGoWirelessChargingStation3in1Pad.jpg",
+    "publishedAt": "2024-04-26T02:20:51Z",
+    "content": "AnkerQi2Anker MagGo Wireless Charging Station (3-in-1 Pad)\r\nAnker MagGo Wireless Charging Station (3-in-1 Pad)Qi23-in-1Qi2iPhoneAnker MagGo215W\r\nApple Watch35WApple Watch5W\r\nAnkerWireless PowerIQActi… [+90 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Taisy0.com"
+    },
+    "author": "taisy0",
+    "title": "TokyoTool、対象製品を最大60％オフで販売するGWセールをスタート ｰ 高級革を採用したNOMADやaltoの一部製品も対象",
+    "description": "Apple製品向けアクセサリなどを販売するTokyoToolが、本日より対象製品を最大60％オフで販売する「ゴールデンウィーク・キャンペーン」のセールをスタートしました。 対象ブランドは高級革を採用したNOMADやaltoをはじめ、人気のバ",
+    "url": "https://taisy0.com/2024/04/26/197518.html",
+    "urlToImage": "https://taisy0.com/wp-content/uploads/2024/04/tokyotoolgwsale2024.jpg",
+    "publishedAt": "2024-04-26T02:09:55Z",
+    "content": "AppleTokyoTool60\r\nNOMADaltoNOMADMFiMagSafeNOMAD Base OneAppleMagSafeNOMAD Horween Leather Cover for MagSafeiPad Air (5/4)1/2\r\niPhoneiPadAirPods\r\n56\r\n – TokyoTool"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Macitynet.it"
+    },
+    "author": "Mauro Notarianni",
+    "title": "TSMC sta lavorando su un nodo produttivo a 1,6nm",
+    "description": "TSMC ha annunciato un nuovo processo per semiconduttori, packaging all'avanguardia e innovazioni pche permettono di migliorare l'efficienza nei processi di design dei chip, e di sfruttare tecnologie di stacking e packaging ancora più avanzate.\n- su macitynet.…",
+    "url": "https://www.macitynet.it/tsmc-sta-lavorando-su-un-nodo-produttivo-a-16nm/",
+    "urlToImage": "https://www.macitynet.it/wp-content/uploads/2023/05/TSMC-logo.jpg",
+    "publishedAt": "2024-04-26T06:29:47Z",
+    "content": "Nell’ambito del 30° North America Technology Symposium 2024 dell’azienda, TSMC ha annunciato un nuovo processo per semiconduttori, packaging all’avanguardia e innovazioni per il 3D IC che permettono … [+1816 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Macitynet.it"
+    },
+    "author": "Antonio Dini",
+    "title": "Il grande piano di Huawei per conquistare il mondo delle quattro ruote",
+    "description": "Una auto elettrica non basta? C’è anche un sistema di guida autonoma e un’intera divisione dell’azienda cinese dedicata al suo sviluppo. Ecco i segreti dell’azienda cinese che vuole dominare il pianeta delle quattro ruote\n- su macitynet.it Il grande piano di …",
+    "url": "https://www.macitynet.it/il-grande-piano-di-huawei-per-conquistare-il-mondo-delle-quattro-ruote/",
+    "urlToImage": "https://www.macitynet.it/wp-content/uploads/2019/01/huawei1200-1.jpg",
+    "publishedAt": "2024-04-26T05:59:46Z",
+    "content": "Huawei ha presentato Qiankun, una nuova unità aziendale focalizzata sulla fornitura di sistemi di guida autonoma, segnando l’ultima spinta dell’azienda a diventare uno dei principali attori del setto… [+7028 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Impress.co.jp"
+    },
+    "author": null,
+    "title": "『マックがやっと売れました！』発売！ 日本語無理・ソフトは2本だけのMacをどう販売？／Apple製品の代理店でマーケティングを任された平社員の奮闘記【Book Watch/ニュース】",
+    "description": "（株）インプレスは4月26日、書籍『マックがやっと売れました！』（石川 雅康 著）をインプレス NextPublishingから発売した。価格は電子書籍版が1,980円、単行本が2,860円。",
+    "url": "https://forest.watch.impress.co.jp/docs/bookwatch/news/1586502.html",
+    "urlToImage": "https://forest.watch.impress.co.jp/img/wf/list/1586/502/01.jpg",
+    "publishedAt": "2024-04-26T03:13:30Z",
+    "content": "426 NextPublishing1,9802,860 \r\n 1985MacintoshMacApple5202Mac"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Unwire.hk"
+    },
+    "author": "Oscar",
+    "title": "美國公司推出智能噴火機械狗【有片睇】噴射 9 米火焰 + 售價 9 千多美元",
+    "description": "可以協助人類搬運、巡邏，以及到危險的地方勘探的四足機械人時有所聞，但會噴火的四足機械人相信大家就未必見過了。美國一間專門售賣火焰噴射器的公司 Throwflame 日前推出了新產品「Thermonator」，可以噴出逾 9 米的火焰，售價亦非常「親民」，僅需 9,420 美元（約港幣 73,743 元）。https://www.youtube.com/watch?v=rj9JSkSpRlMThrowflame 表示，Thermonator 並非軍事用途機械狗，而是用於農業管理、防治山火、生態保護、除雪除冰、製造娛…",
+    "url": "https://unwire.hk/2024/04/26/thermonator-the-flame-throwing-robot-dog/ai/",
+    "urlToImage": "https://cdn.unwire.hk/wp-content/uploads/2024/04/hotdog01-scaled.jpg",
+    "publishedAt": "2024-04-26T02:30:14Z",
+    "content": "Throwflame Thermonator 9 9,420 73,743 \r\nThrowflame Thermonator Thermonator Unitree Go1 Throwflame Arc Thermonator Unitree Go1 LIDAR \r\nThrowflame Arc \r\nInside 48 Thermonator\r\nThermonator Wi-Fi \r\nThrow… [+102 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Iphones.ru"
+    },
+    "author": "Илья Сидоров",
+    "title": "Бывший хакер АНБ и сотрудник Apple запустили стартап DoubleYou для защиты iPhone и Mac",
+    "description": "В США запущен стартап DoubleYou, который должен помочь разработчикам антивирусов лучше защищать iPhone и Mac. DoubleYou основали Патрик Уордл и Михаил Сосонкин. Уордл работал в Агентстве национальной безопасности США с 2006 по 2008 год, а затем стал независим…",
+    "url": "https://www.iphones.ru/iNotes/byvshiy-haker-anb-i-sotrudnik-apple-zapustili-startap-doubleyou-dlya-zashchity-iphone-i-mac-04-26-2024",
+    "urlToImage": "https://www.iphones.ru/wp-content/plugins/wonderm00ns-simple-facebook-open-graph-tags/fbimg.php?img=https%3A%2F%2Fwww.iphones.ru%2Fwp-content%2Fuploads%2F2024%2F04%2Fpatrick-wardle-mikhail-sosonkin-doubleyou.jpg",
+    "publishedAt": "2024-04-26T06:05:13Z",
+    "content": "DoubleYou, iPhone Mac.\r\nDoubleYou . 2006 2008 , , macOS. Apple 2019 2021 .\r\n , , Apple. , , macOS iOS . .\r\n DoubleYou , , . DoubleYou macOS, DNS-. [TechCrunch]\r\n, AirPods Pro 2 USB-C Telegram-!"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Gori.me"
+    },
+    "author": "g.O.R.i",
+    "title": "AirPods ProのUSB-Cモデルを買うチャンス到来。今なら6,400円オフ【Amazonセール】",
+    "description": "Amazonで特選タイムセール「Apple製品がお買い得」がスタート。AirPods Proが最大16％オフで購入できるセールを開催している。 ノイズキャンセリングがないAirPods（第3世代）もセール対象となっており、通常価格の6％オフで購入できる。MagSafeケースとLightningケース…\nThe post AirPods ProのUSB-Cモデルを買うチャンス到来。今なら6,400円オフ【Amazonセール】 first appeared on ゴリミー. 【もっと読む】",
+    "url": "https://gori.me/sale/peripheral-sale/152783",
+    "urlToImage": "https://gori.me/uploads/2024/04/AirPods-Pro-on-sale-along-with-other-airpods-800x500.jpg",
+    "publishedAt": "2024-04-26T01:02:23Z",
+    "content": "AmazonAppleAirPods Pro16\r\nAirPods36MagSafeLightningAppleLightningUSB-CMagSafe\r\nAirPods ProOK\r\nAirPods Pro2AirPods ProiPhoneApple Watch\r\nAppleAirPodsiOS 17\r\nUSB-CVision ProLightningIPX4USB-CIP54\r\n2025… [+89 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Gori.me"
+    },
+    "author": "g.O.R.i",
+    "title": "iPadの最安モデルが5,000円オフ。iPad miniも7,000円オフ【Amazonセール】",
+    "description": "Amazonで特選タイムセール「Apple製品がお買い得」がスタート。iPad（第9世代）が5,000円オフ、iPad mini（第6世代）が7,000円オフで購入できるセールが開催されている。 本記事は、記事執筆時点におけるセール情報となっている。価格の変更や売り切れの可能性もあるため、気になる製…\nThe post iPadの最安モデルが5,000円オフ。iPad miniも7,000円オフ【Amazonセール】 first appeared on ゴリミー. 【もっと読む】",
+    "url": "https://gori.me/sale/peripheral-sale/152785",
+    "urlToImage": "https://gori.me/uploads/2024/04/a9e7489b1f6c08e2f503e77f7b524d52-800x500.jpg",
+    "publishedAt": "2024-04-26T01:20:48Z",
+    "content": "AmazonAppleiPad95,000iPad mini67,000\r\n4.4iPad\r\niPad9USB-CA13 Bionic1,200Apple Pencil1Lightning\r\niPad Air\r\niPad mini6iPad Air8.3Touch IDUSB-C5GApple Pencil2A15 BioniciPhone 13 Pro/Max\r\niPad miniApple … [+7 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Expansion.com"
+    },
+    "author": "expansion.com",
+    "title": "La Primera de Expansión sobre Pedro Sánchez, Acciona, Sabadell y el Real Madrid",
+    "description": "El podcast de este viernes también les cuenta que Engie, CTG, Exus y Naturgy pujan por activos de Acciona y que Sabadell aumenta un 47% su resultado y se dispara un 8,7% en Bolsa.",
+    "url": "https://www.expansion.com/podcasts/la-primera-de-expansion/2024/04/26/662b3c5ee5fdeac43c8b45b1.html",
+    "urlToImage": "https://phantom-expansion.unidadeditorial.es/56526db6b0f0943f57ec73363596b8c9/f/webp/assets/multimedia/imagenes/2024/04/26/17141097744336.jpg",
+    "publishedAt": "2024-04-26T06:24:53Z",
+    "content": "La Primera de Expansión les habla hoy de la inquietud que el amago de dimisión de Pedro Sánchez está generando en los fondos extranjeros. El podcast de este viernes también les cuenta que Engie, CTG,… [+534 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Livedoor.jp"
+    },
+    "author": "itsoku",
+    "title": "【悲報】Apple「Vision Proが売れん」Meta「Questが売れん」SONY「PSVR2が売れん」",
+    "description": "1:それでも動く名無し 警備員[Lv.12][新][苗][芽]  2024/04/26(金) 09:24:16.89 ID:40xiEvPu0  Vision Proの売上低迷〜MetaもPS VRも売れず、そこに市場は存在する？    複合現実（MR）関連ヘッドセット機器について、Meta Questシリーズの販売台数も期待ほどではなく、ソニ",
+    "url": "http://blog.livedoor.jp/itsoku/archives/61452058.html",
+    "urlToImage": "https://livedoor.blogimg.jp/itsoku/imgs/9/e/9e5b77ab-s.png",
+    "publishedAt": "2024-04-26T02:10:28Z",
+    "content": "1: [Lv.12][][][] 2024/04/26() 09:24:16.89 ID:40xiEvPu0\r\n Vision ProMetaPS VR \r\nMRMeta Quest PS VR2 \r\nApple \r\n2: [Lv.12][][][] 2024/04/26() 09:24:24.74 ID:40xiEvPu0\r\nhttps://iphone-mania.jp/news-57919… [+2423 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "iphone-ticker.de › iPhone-News seit 2007"
+    },
+    "author": "Nicolas",
+    "title": "Für Reise und Schreibtisch: Satechi bringt zwei neue Qi2-Ladestationen",
+    "description": "Der in Kalifornien ansässige Zubehöranbieter Satechi hat kurz vor dem Monatswechsel zwei neue Ladeprodukte auf den Markt gebracht, die das kabellose Laden verschiedener Apple-Geräte ermöglichen. Diese beiden Neuheiten, ein kabelloses 3-in-1- sowie ein 2-in-1-…",
+    "url": "https://www.iphone-ticker.de/fuer-reise-und-schreibtisch-satechi-bringt-zwei-neue-qi2-ladestationen-233862/",
+    "urlToImage": "https://images.iphone-ticker.de/wp-content/uploads/2024/04/satechi-3-in-1.jpg",
+    "publishedAt": "2024-04-26T04:54:12Z",
+    "content": "Der in Kalifornien ansässige Zubehöranbieter Satechi hat kurz vor dem Monatswechsel zwei neue Ladeprodukte auf den Markt gebracht, die das kabellose Laden verschiedener Apple-Geräte ermöglichen.\r\nDie… [+1731 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Autocar"
+    },
+    "author": null,
+    "title": "MG 3 review",
+    "description": "Cheap-as-chips supermini makes way for all-new hybrid aimed at bereft Ford Fiesta fans \n\nMore than 4000 Brits bought a new MG 3 last year. That’s admirable, considering that this Anglo-Chinese hatchback was launched over a decade ago and, with its somewhat cr…",
+    "url": "https://www.autocar.co.uk/car-review/mg-motor/mg-3",
+    "urlToImage": "https://www.autocar.co.uk/sites/autocar.co.uk/files/mg3-review-2024-01-urban-panning.jpg",
+    "publishedAt": "2024-04-26T05:01:45Z",
+    "content": "Maturity is a word that sprung to mind when I surveyed the interior for the first time. \r\nGenerally fine-feeling plastics combine with handsome patterned cloth on the seats and dashboard and a 10.3in… [+2402 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Iculture.nl"
+    },
+    "author": "Benjamin Kuijten | iCulture.nl",
+    "title": "Inhoud van je iPhone-scherm delen: Siri regelt het voor je",
+    "description": "Siri kan snel content op het scherm delen. Je hoeft alleen maar aan Siri te vragen om iets naar een contact te versturen. Zo stuur je bijvoorbeeld heel snel een webpagina, zonder dat je zelf het deelmenu hoeft te gebruiken. Het werkt zowel met iMessage als Wh…",
+    "url": "https://www.iculture.nl/?post_type=tips&p=1393823",
+    "urlToImage": "https://www.iculture.nl/wp-json/social-image-generator/v1/image/1393823/?v=01714119638",
+    "publishedAt": "2024-04-26T06:30:00Z",
+    "content": "Stel, je bent op een webpagina aan het browsen en wil deze delen met een vriend of vriendin. Je kan dan het deelmenu gebruiken en een app naar keuze selecteren om dit te versturen, maar er is nog een… [+3919 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "DIE WELT"
+    },
+    "author": "Daniel Eckert, Nando Sommerfeldt",
+    "title": "Angst vor Stagflation und Feierlaune bei Alphabet und Microsoft",
+    "description": "In der heutigen Folge von „Alles auf Aktien“ sprechen die Finanzjournalisten Daniel Eckert und Nando Sommerfeldt über ein dickes Plus bei der Deutschen Bank und die Favoriten der Megatrend-Fonds.",
+    "url": "https://www.welt.de/podcasts/alles-auf-aktien/article251229608/Boersen-Podcast-Feierlaune-bei-Alphabet-Microsoft-und-Snap-Frust-bei-Intel.html",
+    "urlToImage": "https://img.welt.de/img/podcasts/alles-auf-aktien/mobile244546092/3371354547-ci16x9-w1200/eckert-somm-DWO-Podcast-Teaser-AllesAufAktien-mit-2zu3-eckert-sommerfeld-aw.jpg",
+    "publishedAt": "2024-04-26T03:00:36Z",
+    "content": "Außerdem geht es um Intel, Snap, Flatex Degiro, Nvidia, Amazon, Intuitive Surgical, ServiceNow, AMD, ASML, TSMC, Toyota, Tesla, Daifuku, Schneider Eletcric, Uber, Aptiv, Albemarle, First Solar, Enpha… [+543 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Ilsoftware.it"
+    },
+    "author": "Marco Ponteprino",
+    "title": "Google Meet: ora sarà più semplice passare da un dispositivo all’altro",
+    "description": "Google Meet introduce una nuova e interessante funzionalità \"ispirata\" da FaceTime: ecco di cosa si tratta.",
+    "url": "https://www.ilsoftware.it/google-meet-ora-sara-piu-semplice-passare-da-un-dispositivo-allaltro/",
+    "urlToImage": "https://cdn.ilsoftware.it/l4Pk0VIWY5vE-zEVWhzRoknOFF4=/2160x1350/filters:format(webp)/https://www.ilsoftware.it/app/uploads/2023/06/Progetto-senza-titolo-12-1.jpg",
+    "publishedAt": "2024-04-26T06:00:19Z",
+    "content": "Grazie a un aggiornamento, il servizio di Google Meet sarà ancora più comodo rispetto al passato.\r\nA breve sarà infatti introdotto un pulsante chiamato “Switch here” che consentirà di trasferire una … [+1762 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Just Jared"
+    },
+    "author": "Just Jared",
+    "title": "Dua Lipa Changes Into Second Look For Night Out With Callum Turner After Time100 Gala",
+    "description": "Dua Lipa holds hands with beau Callum Turner while heading out to Zero Bond on Thursday night (April 25) in New York City. The 28-year-old “Illusion” singer switched up her outfit from earlier in the night, where the cute couple both attended the Time100 Gala…",
+    "url": "https://www.justjared.com/2024/04/26/dua-lipa-changes-into-second-look-for-night-out-with-callum-turner-after-time100-gala/",
+    "urlToImage": "https://cdn01.justjared.com/wp-content/uploads/headlines/2024/04/dua-callum-time.jpg",
+    "publishedAt": "2024-04-26T04:19:01Z",
+    "content": "Dua Lipa holds hands with beau Callum Turner while heading out to Zero Bond on Thursday night (April 25) in New York City.\r\nThe 28-year-old “Illusion” singer switched up her outfit from earlier in th… [+1102 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Just Jared"
+    },
+    "author": "Just Jared",
+    "title": "Normani Announces Debut Album Dopamine's Release Date, Debuts First Single '1:59' With Gunna",
+    "description": "Normani just released her brand new song “1:59″ with Gunna! The 27-year-old singer’s latest track is the first single off of her long-awaited upcoming debut solo album Dopamine, which was first announced in February. In addition to dropped her first new song …",
+    "url": "https://www.justjared.com/2024/04/26/normani-announces-debut-album-dopamines-release-date-debuts-first-single-159-with-gunna/",
+    "urlToImage": "https://cdn01.justjared.com/wp-content/uploads/headlines/2024/04/normani-single-album.jpg",
+    "publishedAt": "2024-04-26T04:39:42Z",
+    "content": "Normani just released her brand new song “1:59″ with Gunna!\r\nThe 27-year-old singer’s latest track is the first single off of her long-awaited upcoming debut solo album Dopamine, which was first anno… [+849 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Lupa.cz"
+    },
+    "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
+    "title": "Končí úspěšná ministryně vědy, Apple Vision Pro se neprodávají, Europol nechce šifrování v aplikacích",
+    "description": "IBM kupuje tvůrce Terraformu. Legendární procesor Zilog Z80 po 50 letech končí. Další progres Huawei. Čínská špionáž. Zprávy z IT, každý pátek na Lupě.",
+    "url": "https://www.lupa.cz/clanky/konci-uspesna-ministryne-vedy-apple-vision-pro-se-neprodavaji-europol-nechce-sifrovani-v-aplikacich/",
+    "urlToImage": "https://i.iinfo.cz/images/204/meta-horizon-os_watermark-lupa-cz.webp",
+    "publishedAt": "2024-04-26T04:30:00Z",
+    "content": "Vdy v pátek pipravuje reportér Jan Sedlák výbr zajímavých zpráv ze svta IT. Co se událo v tomto týdnu?\r\nMinistryn pro vdu, výzkum a inovace Helena Langádlová rezignovala. Ztratila podporu své strany … [+8094 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "SNY.tv"
+    },
+    "author": "SNY",
+    "title": "Why the Giants picked WR Malik Nabers in the 2024 NFL Draft",
+    "description": "Giants GM Joe Schoen and head coach Brian Daboll explain why they chose Malik Nabers over a quarterback and other wideouts that were still available at No. 6 in the 2024 NFL Draft.",
+    "url": "https://sny.tv/articles/why-giants-picked-malik-nabers-2024-nfl-draft",
+    "urlToImage": "https://media.zenfs.com/en/sny_articles_235/12b14641bda0462ffa4d2440e45c50a7",
+    "publishedAt": "2024-04-26T03:40:00Z",
+    "content": "The Giants were one of the teams to watch when the 2024 NFL Draft started Thursday night.\r\nWill they trade up for a quarterback? Will they stay at No. 6 and fill a position of need or even trade back… [+2839 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Nbcsportsphiladelphia.com"
+    },
+    "author": "NBC Sports Philadelphia",
+    "title": "Eagles miraculously land star cornerback Quinyon Mitchell without a trade up",
+    "description": "In the first round of the 2024 NFL draft Thursday night, the Eagles picked Quinyon Mitchell, a cornerback out of Toledo.",
+    "url": "https://www.nbcsportsphiladelphia.com/nfl/philadelphia-eagles/2024-nfl-draft-eagles-land-star-cornerback-quinyon-mitchell-without-trade-up/580926/?partner=yahoo",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/A6SGDmA4D6xNzs4Ynpa15Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/csnphilly.com/f71f4fe684edaa9a7097ec912ebfb8b8",
+    "publishedAt": "2024-04-26T02:54:40Z",
+    "content": "Eagles miraculously land star cornerback Quinyon Mitchell without a trade up originally appeared on NBC Sports Philadelphia\r\nFor the first time in 22 years, the Eagles have selected a cornerback in t… [+4605 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Technews.tw"
+    },
+    "author": "邱 倢芯",
+    "title": "舊換新資格被取消？蘋果發送錯誤郵件通知",
+    "description": "蘋果的系統似乎發生一些錯誤，導致部分先前使用官方舊換新機制的消費者收到錯誤的郵件通知，當中聲稱用戶在舊換新的過程中沒有提供舊機回收，導致他們的舊換新資格被取消，早先獲得的折抵換購金將會被追回。 在錯誤的郵件中，蘋果告訴這些舊換新的顧客，官方沒有收到用戶的舊 iPhone；但事實上在許多情況下，顧客大...",
+    "url": "https://technews.tw/2024/04/26/apple-iphone-trade-ins/",
+    "urlToImage": "https://img.technews.tw/wp-content/uploads/2021/10/01091247/P1011852-e1633050775633.jpg",
+    "publishedAt": "2024-04-26T06:24:43Z",
+    "content": "iPhone iPhone \r\nMacRumors Quinn Everett iPhone iPhone \r\nEverett Apple Store iPhone iPhone \r\n 9 iPhone 15 iPhone"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Vulture"
+    },
+    "author": "Brian Moylan",
+    "title": "Summer House Recap: Bursting Balloons",
+    "description": "It’s refreshing to watch Carl get clarity on his relationship with Lindsay. Read more in Vulture’s recap of this week’s ‘Summer House.’",
+    "url": "http://www.vulture.com/article/summer-house-recap-season-8-episode-10-the-parent-trap.html",
+    "urlToImage": "https://pyxis.nymag.com/v1/imgs/9b8/076/cb89565f8a60a3914643cd79e6c4949301-summer-house-season8-ep10.1x.rsocial.w1200.jpg",
+    "publishedAt": "2024-04-26T02:00:42Z",
+    "content": "There is something I have not given Ciara enough credit for this summer, and that is that her room has been much cleaner. Well, maybe thats not exactly true. This was the first episode that I noticed… [+10888 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Nextpit.com"
+    },
+    "author": "Jade Bryan",
+    "title": "Meta Turbocharges Ray-Ban Meta Smart Glasses with Multimodal AI",
+    "description": "Meta updates the Ray-Ban Meta Smart Glasses adding multimodal AI and hands-free video calling features. Here's what you can do with Meta AI.",
+    "url": "https://www.nextpit.com/meta-ray-ban-smart-glasses-update-generative-ai-features-video-call",
+    "urlToImage": "https://fscl01.fonpit.de/userfiles/7687254/image/Ray_Ban_Meta_Smart_Glasses/nextpit_Ray_Ban_Meta_Smart_Glasses_Front.jpg",
+    "publishedAt": "2024-04-26T01:38:08Z",
+    "content": "Multimodal AI capabilities on Meta smart spectacles\r\nThe Ray-Ban Meta Smart Glasses were originally launched with voice-activated controls. However, Meta is upgrading these functions with the latest … [+1817 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "HipHopDX"
+    },
+    "author": "Karan Singh",
+    "title": "Lil Nas X Continues Throwback Rollout Strategy With Latest Single 'Trust Me'",
+    "description": "Lil Nas X has shared another single to hype up fans and followers for his next album, 'Nasareti 2,' which is expected to drop later this year.",
+    "url": "https://hiphopdx.com/news/lil-nas-x-single-trust-me-surprising-twist",
+    "urlToImage": "https://static.hiphopdx.com/2024/04/lil-nas-x-delivers-latest-single-trust-me-with-surprising-twist-1200x675.jpg",
+    "publishedAt": "2024-04-26T00:30:23Z",
+    "content": "Lil Nas X has dropped a new single, stoking the excitement surrounding his upcoming NASARATI 2 album.\r\nOn Wednesday (April 24), the 25-year-old rapper and singer released Trust Me exclusively on Soun… [+1778 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Huffingtonpost.jp"
+    },
+    "author": "ハフポスト日本版編集部",
+    "title": "米津玄師の朝ドラ主題歌を抑えたダントツ1位は、あのアニメの主題歌。今人気の曲は？【YouTubeランキングTOP10】",
+    "description": "(左から）「Bling-Bang-Bang-Born」/CD、『虎に翼』、『忘却バッテリー』【こちらもおすすめ】【怪獣8号】原作者のイラストに「好き」の声。アニメ2話に「待ってました」（画像あり）\r\n最新の音楽トレンドや旬の人気曲を知ることができる「YouTubeミュージックチャート」。\r\n毎週更新される楽曲チャートは、公式ミュージックビデオ、楽曲が公式に使用されているユーザー作成動画、歌詞動画それぞれの視聴回数を合計して算出されます。\r\n4月12日から4月18日にかけて、日本の楽曲チャートにランクインした上位1…",
+    "url": "https://www.huffingtonpost.jp/entry/story_jp_662b0560e4b09d8df9d60572",
+    "urlToImage": "https://img.huffingtonpost.com/asset/662b0c212200001a00fc758e.jpeg?ops=1200_630",
+    "publishedAt": "2024-04-26T03:28:28Z",
+    "content": "Skip to Main Content\r\n(Bling-Bang-Bang-Born/CD\r\n82\r\nYouTube\r\n41241810\r\n10 Blow Your Cover/Numberi\r\n2774\r\n2804\r\n37714\r\n39731\r\n5371\r\n6442\r\n1 Bling-Bang-Bang-Born/Creepy Nuts\r\n112314"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Smzdm.com"
+    },
+    "author": null,
+    "title": "百亿补贴：Apple 苹果 iPhone 15 Pro Max 5G手机 256GB 8098元",
+    "description": "百亿补贴:Apple 苹果 iPhone 15 Pro Max 5G手机 256GB 8098元,什么值得买甄选出拼多多优惠促销商品,包括Apple/苹果报价、多少钱等信息,认真生活,好好花钱就上什么值得买。",
+    "url": "https://www.smzdm.com/p/110683461/",
+    "urlToImage": "https://y.zdmimg.com/202310/18/652f789309edd9250.jpg_d250.jpg",
+    "publishedAt": "2024-04-26T00:37:18Z",
+    "content": "iPhone 15 Pro Max 6.7ProMotion Super Retina XDR 120Hz iOS 17 iPhone 14 Pro Max 19g\r\niPhone 15 Pro Action Action \r\niPhone 15 Pro A17 Pro 3nm CPU 16 10% 6 GPU 20% iPhone 15 Pro 3A\r\niPhone 15 Pro 48MP 2… [+135 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Smzdm.com"
+    },
+    "author": null,
+    "title": "百亿补贴：Apple 苹果 iPhone 15 5G手机 128GB 4498元（需用券）",
+    "description": "百亿补贴:Apple 苹果 iPhone 15 5G手机 4498元（需用券）,什么值得买甄选出拼多多优惠促销商品,包括Apple/苹果报价、多少钱等信息,认真生活,好好花钱就上什么值得买。",
+    "url": "https://www.smzdm.com/p/110684136/",
+    "urlToImage": "https://qny.smzdm.com/202309/13/6500af26d06dc1798.png_d250.jpg",
+    "publishedAt": "2024-04-26T03:23:10Z",
+    "content": "iPhone 15 IP68 171g7.8mm\r\niPhone 156.1 OLED XDR 2556×1179460ppi2000100%DCI-P360HziPhone 15\r\n A16 6 CPU5GPU 16 iPhone 14203050%LightningUSB-C\r\niPhone 154800f1.62400120021200f2.4 HDR 5\r\nSOSUSB 2"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Smzdm.com"
+    },
+    "author": null,
+    "title": "Apple 苹果 MacBook Pro M3版 14英寸笔记本电脑（M3、16GB、512GB）教育优惠版 12749元（需用券）",
+    "description": "Apple 苹果 MacBook Pro M3版 14英寸笔记本电脑（M3、16GB、512GB）教育优惠版 12749元（需用券）,什么值得买甄选出京东优惠促销商品,包括Apple/苹果报价、多少钱等信息,认真生活,好好花钱就上什么值得买。",
+    "url": "https://www.smzdm.com/p/110716770/",
+    "urlToImage": "https://qny.smzdm.com/202402/02/65bcbaf8e0f0c989.jpg_d250.jpg",
+    "publishedAt": "2024-04-26T05:07:03Z",
+    "content": "MacBook Pro M3M3 3nm 250 10 M1 65% M3 8 4 4 M1 35% 24GB \r\nM3 Apple Mac M1 2.5 M1 30% 50% M1 60% AV1 M3 Mac app M1 2.5 Mac app M3 Apple M3M3 Pro M3 Max ML M1 60% AI/ML M3 H.264HEVCProRes ProRes RAW AV… [+180 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Ozbargain.com.au"
+    },
+    "author": "Mike Nolan",
+    "title": "Satechi MagSafe Card Wallet/Stand $48.74 + Delivery ($0 Prime/ $59 Spend) @ Amazon AU",
+    "description": "These seem to be $79 everywhere else including Apple and JB. I’ve not checked them out in person yet but they seem to be one of the better looking and more functional MagSafe wallets around. Other colours available for $51.99\n\nBlack\nBlue\nBrown",
+    "url": "https://www.ozbargain.com.au/node/842915",
+    "urlToImage": "https://files.ozbargain.com.au/n/15/842915l.jpg?h=4297b340",
+    "publishedAt": "2024-04-26T04:14:09Z",
+    "content": "All trademarks are owned by their respective owners.OzBargain is an independent community website which has no association with nor endorsement by the respective trademark owners.\r\nCopyright © 2006-2… [+32 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Ozbargain.com.au"
+    },
+    "author": "Dacs",
+    "title": "Powerpod 65W, 3-Port USB-C GAN Travel Charger with AU, EU, and UK Plug Adapters $39.99 Delivered @ Zyron",
+    "description": "Similar to this 67W one from Amazon. This is $1.75 more and no travel case, but with free delivery. Not sure if it contains a 2m USB-C cable or not (shows it in the picture but doesn't list it in the box contents). Power output says 65W in title but 66W in th…",
+    "url": "https://www.ozbargain.com.au/node/842872",
+    "urlToImage": "https://files.ozbargain.com.au/n/72/842872x.jpg?h=739c6f02",
+    "publishedAt": "2024-04-26T00:08:31Z",
+    "content": "Similar to this 67W one from Amazon. This is $1.75 more and no travel case, but with free delivery. Not sure if it contains a 2m USB-C cable or not (shows it in the picture but doesn't list it in the… [+607 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Ozbargain.com.au"
+    },
+    "author": "trixieb",
+    "title": "[St George] Bonus Cashback/Cap: Chemist Warehouse 15%/$15 | David Jones 15%/$25 @ ShopBack",
+    "description": "Pay with your linked eligible St George card\n\n(1) Chemist Warehouse 15% Bonus\nReward capped at $15.00 per purchase\n\nCashback exclusions\n\nThese items are not eligible for Cashback:\n\n<ul>\n<li>Priority Orders (including but not limited to RightSign COVID19 Antig…",
+    "url": "https://www.ozbargain.com.au/node/842896",
+    "urlToImage": "https://files.ozbargain.com.au/n/96/842896l.jpg?h=b7e69459",
+    "publishedAt": "2024-04-26T02:28:56Z",
+    "content": "Pay with your linked eligible St George cardDavid Jones has a Flash Sale 10am-4pm AEST 26/4: 15% Cashback on Beauty Products (capped at $20)\r\n(1) Chemist Warehouse 15% BonusReward capped at $15.00 pe… [+1930 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Ozbargain.com.au"
+    },
+    "author": "Dacs",
+    "title": "Zyron Tech Powerpod 67W, 3-Port USB-C GAN Travel Charger with AU/EU/UK Adapters, Case & 2m USB Cable $39.99 Delivered @ Zyron",
+    "description": "Similar to this expired deal on Amazon. This is $1.75 more but with free delivery.\n\nSPECIFICATIONS\nGaN Generation: GaN 3\nModel: ZY-WC-67W-2C1A\nInput: 100-240V ~ 50/60Hz 1.5A\nMaterial: PC (UL94-V0 Flame Retardent)\nDimension: 55x55x30mm\nWeight: 118 grams\nFast C…",
+    "url": "https://www.ozbargain.com.au/node/842885",
+    "urlToImage": "https://files.ozbargain.com.au/n/85/842885x.jpg?h=c5bac0fd",
+    "publishedAt": "2024-04-26T01:38:44Z",
+    "content": "Similar to this expired deal on Amazon. This is $1.75 more but with free delivery.\r\nSPECIFICATIONSGaN Generation: GaN 3Model: ZY-WC-67W-2C1AInput: 100-240V ~ 50/60Hz 1.5AMaterial: PC (UL94-V0 Flame R… [+2582 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Faz.net"
+    },
+    "author": "AFP",
+    "title": "Rohstoffe aus Konfliktregion: Demokratische Republik Kongo erhebt Vorwürfe gegen Apple",
+    "description": "Die Regierung des zentralafrikanischen Landes sieht „Blut-Rohstoffe“ in den Lieferketten von Apple – und setzt dem Technologiekonzern nun ein Ultimatum.",
+    "url": "https://www.faz.net/aktuell/wirtschaft/rohstoffe-aus-konfliktregion-demokratische-republik-kongo-erhebt-vorwuerfe-gegen-apple-19679688.html",
+    "urlToImage": "https://media0.faz.net/ppmedia/aktuell/1200199314/1.9679728/facebook_teaser/arbeiter-in-einer-mine-in-der.jpg",
+    "publishedAt": "2024-04-26T02:23:35Z",
+    "content": "Der an Bodenschätzen reiche Osten der DR Kongo ist seit den Kriegen der 1990er Jahren in der Region von Gewalt geprägt. Ende 2021 flammten die Konflikte wieder auf, als die Rebellen der Bewegung des … [+1953 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Applech2.com"
+    },
+    "author": "applech2",
+    "title": "Anker Japan、Qi2対応のiPhone用マグネット接続式ワイヤレス充電パッドと、Apple Watch、AirPods用充電器を備えた3-in-1ワイヤレス充電ステーション「Anker MagGo Wireless Charging Station (3-in-1 Pad/Stand)」を発売。",
+    "description": "Anker JapanがQi2に対応し最大15WでiPhoneをワイヤレス充電できるマグネット接続式パッドに加え、Apple WatchとAirPodsの充電も可能な3-in-1ワイヤレス充電ステーション「Anker […]\nThe post Anker Japan、Qi2対応のiPhone用マグネット接続式ワイヤレス充電パッドと、Apple Watch、AirPods用充電器を備えた3-in-1ワイヤレス充電ステーション「Anker MagGo Wireless Charging Station (3-in-1…",
+    "url": "https://applech2.com/archives/20240426-anker-japan-maggo-wireless-charging-station-3-in-1-pad-and-stand.html",
+    "urlToImage": "https://applech2.com/wp-content/uploads/2024/04/Anker-MagGo-Wireless-Charging-Station-3-in-1-Pad-and-Stand-Hero.jpg",
+    "publishedAt": "2024-04-26T02:46:15Z",
+    "content": "Anker JapanQi215WiPhoneApple WatchAirPods3-in-1Anker MagGo Wireless Charging Station (3-in-1 Pad/Stand)\r\nAnker Japan20240426iPhone 1515WQi2Apple WatchAirPods3-in-1Anker MagGo Wireless Charging Statio… [+645 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Applech2.com"
+    },
+    "author": "applech2",
+    "title": "Parallels、Windows 11とLinux仮想マシンとの互換性を向上させた「Parallels Desktop for Mac App Store Edition v1.9.3」をリリース。",
+    "description": "ParallelsがWindows 11とLinux仮想マシンとの互換性を向上させた「Parallels Desktop for Mac App Store Edition v1.9.3」をリリースしています。詳細は以 […]\nThe post Parallels、Windows 11とLinux仮想マシンとの互換性を向上させた「Parallels Desktop for Mac App Store Edition v1.9.3」をリリース。 first appeared on AAPL Ch..",
+    "url": "https://applech2.com/archives/20240426-parallels-desktop-for-mac-v193-app-store-edition.html",
+    "urlToImage": "https://applech2.com/wp-content/uploads/2024/04/Parallels-Desktop-for-mac-v193-app-store-edition-Hero.jpg",
+    "publishedAt": "2024-04-26T03:13:00Z",
+    "content": "ParallelsWindows 11LinuxParallels Desktop for Mac App Store Edition v1.9.3\r\nAlludo(Corel)Parallels International GmbH.20240424Intel/Apple Silicon MacWindowsLinux, UnixParallels Desktop for v1.9.3Mac … [+676 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Ferra.ru"
+    },
+    "author": "Булат Кармак",
+    "title": "Geekbench раскрыл секрет: ноутбук Microsoft Surface Laptop 6 получит версию на чипе Snapdragon X Elite",
+    "description": "Qualcomm разрабатывает чипы Snapdragon X Elite и Snapdragon X Plus, чтобы конкурировать с ноутбуками Apple на базе Apple Silicon.",
+    "url": "https://www.ferra.ru/news/notebooks/geekbench-raskryl-sekret-noutbuk-microsoft-surface-laptop-6-poluchit-versiyu-na-chipe-snapdragon-x-elite-26-04-2024.htm",
+    "urlToImage": "https://www.ferra.ru/imgs/2024/04/26/04/6447965/6568984ee240bafaab6ed4404ec16d07f2bcf971.png",
+    "publishedAt": "2024-04-26T05:36:28Z",
+    "content": ", Surface Laptop 6 Snapdragon X Elite, . Geekbench «OEMBR OEMBR», Surface Laptop 6, Snapdragon X Elite X1E80100.\r\n X Elite CPU GPU. Geekbench Surface Laptop 6. 2700, 14000.\r\n «» . , .\r\n , Surface Lap… [+110 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Ferra.ru"
+    },
+    "author": "Булат Кармак",
+    "title": "Мощность новейшего чипа Snapdragon X Elite сравнили с Apple M3",
+    "description": "Накануне Qualcomm официально представила линейку чипов Snapdragon X Elite.",
+    "url": "https://www.ferra.ru/news/computers/moshnost-noveishego-chipa-snapdragon-x-elite-sravnili-s-apple-m3-26-04-2024.htm",
+    "urlToImage": "https://www.ferra.ru/imgs/2024/04/26/04/6447948/259aa04c1d10eed63cf436b0531520693f088644.jpeg",
+    "publishedAt": "2024-04-26T05:01:26Z",
+    "content": "Geekbench 6 Apple. , Qualcomm Apple M3, .\r\n , Snapdragon X Elite 2714 14078 . Apple M3, Qualcomm 16% , 12.5% ."
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Ig.com.br"
+    },
+    "author": "ONEberto",
+    "title": "Fotos interessantes e as histórias por trás delas (Parte 317)",
+    "description": "As fotografias são mais do que apenas imagens estáticas – elas contam histórias, capturam momentos importantes e nos transportam para outras épocas e lugares. Algumas das fotografias mais interessantes que vemos são aquelas que têm uma história por trás delas…",
+    "url": "https://obutecodanet.ig.com.br/fotos-interessantes-e-as-historias-por-tras-delas-parte-317-2/",
+    "urlToImage": "https://obutecodanet.ig.com.br/wp-content/uploads/2024/04/image-630.png",
+    "publishedAt": "2024-04-26T03:03:00Z",
+    "content": "As fotografias são mais do que apenas imagens estáticas elas contam histórias, capturam momentos importantes e nos transportam para outras épocas e lugares. Algumas das fotografias mais interessantes… [+3660 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Www.abc.es"
+    },
+    "author": "(abc)",
+    "title": "Incertidumbre en el PSOE ante la decisión de Sánchez, y otros temas del día",
+    "description": "Código Desktop Imagen para móvil, amp y app Código móvil Código AMP Código APP En el Partido Socialista se han multiplicado las reuniones en los distintos territorios y todos coinciden en que se desconoce que decisión puede tomar el presidente. En el PSOE se …",
+    "url": "https://www.abc.es/voz/noticias-del-dia/incertidumbre-psoe-ante-decision-sanchez-temas-dia-20240426060000-nt.html",
+    "urlToImage": "https://s2.abcstatics.com/abc/www/multimedia/voz/2024/04/25/boletin_758x531-U18470455665mWW-1024x512@diario_abc.jpg",
+    "publishedAt": "2024-04-26T04:00:00Z",
+    "content": "En el Partido Socialista se han multiplicado las reuniones en los distintos territorios y todos coinciden en que se desconoce que decisión puede tomar el presidente. En el PSOE se sabia que todo lo q… [+810 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Www.abc.es"
+    },
+    "author": "(abc)",
+    "title": "'El Caso Asunta' se estrena hoy en plataformas: dónde ver 'online' la serie protagonizada por Candela Peña",
+    "description": "Lo que gusta en España y en el mundo entero un buen 'true crime' . Una historia basada en hechos reales . Un crimen real por fascículos . A sangre fría. Ya sea en formato documental (ahí tienen 'Lucía en la telaraña' en RTVE Play, cuya segunda temporada se es…",
+    "url": "https://www.abc.es/play/series/noticias/caso-asunta-estrena-hoy-plataformas-donde-ver-online-serie-candela-pena-20240426170140-nt.html",
+    "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/play/2024/04/25/caso-asunta-netflix-kHsB--1024x512@diario_abc.jpg",
+    "publishedAt": "2024-04-26T04:00:03Z",
+    "content": "Lo que gusta en España y en el mundo entero un buen 'true crime'. Una historia basada en hechos reales. Un crimen real por fascículos. A sangre fría. Ya sea en formato documental (ahí tienen 'Lucía e… [+3306 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Soydemac.com"
+    },
+    "author": "Iván Menéndez",
+    "title": "Trucos para personalizar pantalla bloqueo iPhone",
+    "description": "Con cada nueva actualización del iPhone es posible disfrutar de nuevas funcionalidades, algunas de ellas realmente útiles e interesantes, que...",
+    "url": "https://www.soydemac.com/personalizar-pantalla-bloqueo-iphone/",
+    "urlToImage": "https://www.soydemac.com/wp-content/uploads/2024/04/Trucos-para-personalizar-pantalla-bloqueo-iPhone.jpg",
+    "publishedAt": "2024-04-26T06:30:53Z",
+    "content": "Con cada nueva actualización del iPhone es posible disfrutar de nuevas funcionalidades, algunas de ellas realmente útiles e interesantes, que nos permiten poder sacarle el máximo partido a este smart… [+4769 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CBS Sports"
+    },
+    "author": "Bryan DeArdo",
+    "title": "2024 NFL Draft: Full list of Steelers picks, including first-round selection OL Troy Fautanu, more",
+    "description": "All the Steelers picks and draft news in one place",
+    "url": "https://www.cbssports.com/nfl/draft/news/2024-nfl-draft-full-list-of-steelers-picks-including-first-round-selection-ol-troy-fautanu-more/",
+    "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/04/26/e929244f-d914-4a46-a17d-e52d48d848b3/thumbnail/1200x675/f20d70df3c40ba394076cd376f9df551/fautano.png",
+    "publishedAt": "2024-04-26T02:46:26Z",
+    "content": "You've made it, Steelers fans. After months of speculation, reports and mock drafts, Pittsburgh's fanbase is finally getting to see who its team will select during the 2024 NFL Draft. This is a huge … [+1412 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Computersweden.se"
+    },
+    "author": "Viktor Eriksson",
+    "title": "Apple släpper ny stor språkmodell",
+    "description": "Apple har nu släppt den stora språkmodellen OpenELM som företaget uppger ska kunna prestera bättre än flera andra stora språkmodeller tränade på offentliga dataset. Företaget har även gjort OpenELM:s tränings- och utvärderingsramverk allmänt tillgängliga.\r\n\n\n…",
+    "url": "https://computersweden.se/article/2095236/apple-slapper-ny-stor-sprakmodell.html",
+    "urlToImage": "https://computersweden.se/wp-content/uploads/2024/04/shutterstock_215339035.jpg?quality=50&strip=all&w=1024",
+    "publishedAt": "2024-04-26T04:15:00Z",
+    "content": "Apple har nu släppt den stora språkmodellen OpenELM som företaget uppger ska kunna prestera bättre än flera andra stora språkmodeller tränade på offentliga dataset. Företaget har även gjort OpenELM:s… [+633 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "PC Games"
+    },
+    "author": "Maci Naeem Cheema",
+    "title": "PC Games Podcast #83: Preview-Talk zu F1 24 - wenige Features, krasse Änderungen!",
+    "description": "In der neuesten Folge des PC Games Podcast quatscht unser Moderations-Duo über das bevorstehende F1 24, das zwar auf wenige Features setzt, dafür aber maßgeblich an der Spielerfahrung, den Zweikämpfen und dem Karrieremodus schrauben möchte. Reicht das…",
+    "url": "https://www.pcgames.de/PC-Games-Podcast-Brands-279138/News/Preview-Talk-F1-24-EA-Codemasters-Neuerungen-Features-Aenderungen-New-Campaign-Podcast-1446094/",
+    "urlToImage": "https://www.pcgames.de/screenshots/original/2024/04/1d0fa8302d7635d01999db45973deeb7da3534b9ddd83164-1--pc-games_artwork1.webp",
+    "publishedAt": "2024-04-26T03:00:00Z",
+    "content": "In der neuesten Ausgabe unseres Spielepodcasts geht es um das für den 31. Mai 2024 geplante Rennspiel F1 24 - der neueste Teil der offiziellen Spielereihe der britischen Rennspielschmiede Codemasters… [+3329 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Sweclockers.com"
+    },
+    "author": "Anders Lundberg",
+    "title": "Iphones marknadsandel faller i USA",
+    "description": "Apple har alltid haft en stark position i hemlandet, men nya siffror visar att andelen av alla aktiverade telefoner är lägre än på länge.",
+    "url": "https://www.sweclockers.com/nyhet/38685-iphones-marknadsandel-faller-i-usa",
+    "urlToImage": "https://www.sweclockers.com/artikel/38685/og-image",
+    "publishedAt": "2024-04-26T03:33:02Z",
+    "content": "Iphone har länge legat kring 40 procent av alla nya telefonaktiveringar i hemlandet USA, men nya siffror från Consumer Intelligence Research Partners (CIRP) visar att Apples marknadsandel har minskat… [+848 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Overclockers.ru"
+    },
+    "author": "Alex040",
+    "title": "Samsung может опередить Apple, добавив мониторинг сахара в крови в Galaxy Watch 7",
+    "description": "Компания Samsung может добавить в будущие версии своих умных часов одну из самых востребованных функций, затрагивающую сотни миллионов людей на планете. Работает в этом направлении и Apple.",
+    "url": "https://overclockers.ru/blog/Alex040/show/154237/Samsung-mozhet-operedit-Apple-dobaviv-monitoring-sahara-v-krovi-v-Galaxy-Watch-7",
+    "urlToImage": "https://overclockers.ru/st/legacy/blog/433816/508907_O.jpg",
+    "publishedAt": "2024-04-26T00:25:51Z",
+    "content": "Galaxy Watch 6\r\n Ice Universe, «» Samsung , , Galaxy Watch 7 .\r\n , Samsung. Samsung , , , , .\r\n , « », Samsung TWS- - . , , Galaxy Watch 7, .\r\nGalaxy Watch 6 Classic Samsung . : GSMArena\r\n, Apple Wat… [+394 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Overclockers.ru"
+    },
+    "author": "goldas",
+    "title": "TSMC анонсировала переход на 1,6-нм техпроцесс в 2026 году",
+    "description": "Новые нормы производства обеспечат 10-процентный прирост производительности и 20-процентное повышение энергоэффективности.",
+    "url": "https://overclockers.ru/blog/goldas/show/154243/TSMC-anonsirovala-perehod-na-1-6-nm-tehprocess-v-2026-godu",
+    "urlToImage": "https://overclockers.ru/st/legacy/blog/360392/508920_O.png",
+    "publishedAt": "2024-04-26T02:30:52Z",
+    "content": "Apple M3, 3- TSMC. TSMC , 1,6- , . , A16, 1,6- .\r\n  , A16 , , . TSMC A16 2026 , , , . .\r\n  A16 10 20 N2P TSMC. . , TSMC System-on-Wafer, . \r\n  SoW Apple, Integrated Fan-Out InFO, « » 2027 . , s Apple… [+56 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Mediafax.ro"
+    },
+    "author": "Liviu Popescu",
+    "title": "Compania-mamă a Google, pe cale să depăşească o capitalizare de 2.000 de miliarde de dolari",
+    "description": "Acţiunile au urcat cu 13% în after-hours.",
+    "url": "https://www.mediafax.ro/economic/compania-mama-a-google-pe-cale-sa-depaseasca-o-capitalizare-de-2-000-de-miliarde-de-dolari-22357317",
+    "urlToImage": "https://storage0.dms.mpinteractiv.ro/media/1/1/1686/22357317/1/profimedia-0565301776.jpg?width=640",
+    "publishedAt": "2024-04-26T05:28:03Z",
+    "content": "Alphabet, compania-mam a Google, a raportat venituri mai mari cu 15% în primul trimestru fiscal din 2024 i a anunat primul dividend din istorie, de 20 de ceni pe aciune, alturi de o rscumprare de aci… [+2276 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Iphone-mania.jp"
+    },
+    "author": "lexi",
+    "title": "AppleサプライヤーTSMC、1.6nmチップを2026年にも製造へ",
+    "description": "台湾チップメーカーTSMCは米国時間24日、1.6ナノメートル（nm）のチップを製造する計画をプレスリリースで発表しました。将来的にAppleシリコンに搭載されるものとみられており、注目が集まっています。 最新のiPho […]",
+    "url": "https://iphone-mania.jp/news-579256/",
+    "urlToImage": "https://iphone-mania.jp/uploads/2024/04/26/ezgif-7-aea06db44b-2.jpg",
+    "publishedAt": "2024-04-26T05:59:31Z",
+    "content": "TSMC241.6nmApple\r\niPhone15 ProA17 Pro3nmiPhone154nm\r\nCPU\r\niPhone16 ProA18 ProTSMC3nmN3B3nmN3E\r\nA17 Pro9%14%\r\nTSMCA161.6nm2nmN2TSMC24A16\r\n2026TSMCN2P810%1520%n\r\nSource: TSMC, AMD"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Kocpc.com.tw"
+    },
+    "author": "Shengti",
+    "title": "全新 iPad Air 即將推出，除首次推出 12.9 吋 iPad Air ，關於「它」還有這些更新重點",
+    "description": "日前 Apple 預告將於台灣時間 5 月 7 日晚間 10 點舉行一場「特別活動」的春季新品發表會，屆時預計這次將以 iPad 系列為主角，除了 iPad Pro 之外，備受期待的還有 iPad Air 。距離上一次 iPad Air 推出已經要追溯到 2022 年 3 月，大約距今已經將近 800 天的時間，而這次除了硬體升級也將帶來大尺寸的 12.9 吋 iPad Air 等新品，這次就來幫各位整理關於全新 iPad Air 的重點。\nThe post 全新 iPad Air 即將推出，除首次推出 12.9…",
+    "url": "https://www.kocpc.com.tw/archives/544498",
+    "urlToImage": "https://www.kocpc.com.tw/wp-content/uploads/2024/04/20240426015001_0_b5d0ff.jpg",
+    "publishedAt": "2024-04-26T02:26:37Z",
+    "content": "Apple 5 7 10 iPad iPad Pro iPad Air iPad Air 2022 3 800 12.9 iPad Air iPad Air \r\nApple iPad Air 5\r\nApple 5 7 Apple iPad Pro iPad Air iPad Air 12.9 iPad Air \r\nApple\r\n12.9 \r\n2020 Apple iPad Air 4 10.9 … [+918 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Kocpc.com.tw"
+    },
+    "author": "Rocky",
+    "title": "Apple 推出 OpenELM 開源大型語言模型，可在筆電和手機上運行",
+    "description": "這一年各大品牌可說都大力發展生成式 AI，像是微軟、Google、Meta 等，陸陸續續都推出多個版本的 LLMs 大型語言模型，而 Apple 就低調很多，即便 iPhone 16 系列有相關傳聞出現，也是沒有太多細節。終於在稍早，Apple 釋出全新「OpenELM」開源大型語言模型，而且還標榜是一款高校模型，可在筆電、手機這種硬體規格較低的設備裡離線運行，目前共有 4 種模型版本。\nThe post Apple 推出 OpenELM 開源大型語言模型，可在筆電和手機上運行 appeared first on…",
+    "url": "https://www.kocpc.com.tw/archives/544547",
+    "urlToImage": "https://www.kocpc.com.tw/wp-content/uploads/2024/04/20240426104553_0_937e94.png",
+    "publishedAt": "2024-04-26T02:49:05Z",
+    "content": "AIGoogleMeta LLMs Apple iPhone 16 Apple OpenELM 4 \r\nApple Hugging Face OpenELM Open-source Efficient Language Models\r\nOpenELM 4 4 Instruct \r\n<ul><li>OpenELM-270M</li><li>OpenELM-450M</li><li>OpenELM-… [+554 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Bloguismo.com"
+    },
+    "author": "Anairas",
+    "title": "Finest Free Revolves No-deposit Incentives",
+    "description": "Articles Tips Allege The 100 percent free Revolves Added bonus The reason why you Can be Faith Gambling establishment Org Which can be Reasonable Wagering Criteria Inside No-deposit Incentives? Better Free Revolves No deposit In the usa 2024 In any event, wit…",
+    "url": "https://www.bloguismo.com/finest-free-revolves-no-deposit-incentives/",
+    "urlToImage": "https://g.twimg.com/Twitter_logo_blue.png",
+    "publishedAt": "2024-04-26T04:00:00Z",
+    "content": "In any event, with your revolves, their payouts do not need to getting gambled. Here is also, but not, be restrict winnings that you can withdraw and the like. This really is probably one of the bett… [+5384 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Electrek"
+    },
+    "author": "Steven Delatorre",
+    "title": "Daily Ev Recap: Ultra-fast charging adds 370 miles of range in 10 minutes",
+    "description": "Listen to a recap of the top stories of the day from Electrek. Quick Charge is now available on Apple Podcasts, Spotify, TuneIn and...",
+    "url": "http://electrek.co/2024/04/25/daily-ev-recap-ultra-fast-charging-adds-370-miles-of-range-in-10-minutes/",
+    "urlToImage": null,
+    "publishedAt": "2024-04-26T05:03:24Z",
+    "content": "Listen to a recap of the top stories of the day from Electrek. Quick Charge is now available on Apple Podcasts, Spotify, TuneIn and our RSS feed for Overcast and other podcast players.\r\nNew episodes … [+904 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Aktualne.cz"
+    },
+    "author": "Jakub Stehlík",
+    "title": "Ukápne slza za chybějící naftu? První jízda s novou generací Dacie Duster",
+    "description": "Třetí generace Dacie Duster je tady, pro první zkušenosti s kompaktním rumunským SUV jsme zajeli až do španělské Malagy.",
+    "url": "https://zpravy.aktualne.cz/ekonomika/auto/ukapne-slza-za-chybejici-naftu-prvni-jizda-s-novou-generaci/r~a015bf12033911efbeca0cc47ab5f122/",
+    "urlToImage": "https://cdn.xsd.cz/original/006cbe6f9bba348682ab4ff89c100e51.jpg",
+    "publishedAt": "2024-04-26T03:09:59Z",
+    "content": "Je to už čtrnáct let, co se Dacia Duster zjevila poprvé. A to doslova, protože hranici 300 tisíc korun za rodinné SUV dokázala kromě ní pokořit už jen Lada Niva pocházející z hlubokých sovětských dob… [+4929 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Android Headlines"
+    },
+    "author": "Erencan Yılmaz",
+    "title": "Exclusive: Samsung Galaxy Watch Ultra is coming",
+    "description": "It seems like Samsung is ditching the Watch 7 Pro rumors and going all-in with a brand new smartwatch named as the Galaxy Watch Ultra. While we’re not sure if Samsung will unveil the Watch 7 Pro in the next generation Watch 7 series, one thing we can say for …",
+    "url": "https://www.androidheadlines.com/2024/04/exclusive-samsung-galaxy-watch-ultra-coming.html",
+    "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2023/07/Samsung-Galaxy-Watch-6-AH-7.jpg",
+    "publishedAt": "2024-04-26T06:50:30Z",
+    "content": "It seems like Samsung is ditching the Watch 7 Pro rumors and going all-in with a brand new smartwatch named as the Galaxy Watch Ultra. While were not sure if Samsung will unveil the Watch 7 Pro in th… [+3191 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Gadget2ch.com"
+    },
+    "author": "Gadget 2ch",
+    "title": "Apple「Vision Proが売れん」Meta「Questが売れん」SONY「PSVR2が売れん」",
+    "description": "なぜだ・・・ 1: それでも動く名無し 2024/04/26(金) 09:24:16.89 ID:40xiEvPu0 Vision Proの売上低迷〜MetaもPS VRも売れず、そこに市場は存在する？ 複合現実（MR）...",
+    "url": "http://www.gadget2ch.com/archives/post-230497.html",
+    "urlToImage": "https://i0.wp.com/www.gadget2ch.com/wp-content/uploads/2024/04/visionpro.jpg?fit=300%2C300",
+    "publishedAt": "2024-04-26T04:31:29Z",
+    "content": "1: 2024/04/26() 09:24:16.89 ID:40xiEvPu0\r\nVision ProMetaPS VR MRMeta Quest PS VR2 \r\nApple\r\n2: 2024/04/26() 09:24:24.74 ID:40xiEvPu0\r\n6: 2024/04/26() 09:28:33.39 ID:BwJ/B9jn0\r\n4: 2024/04/26() 09:26:53… [+1966 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Minneapolis Star Tribune"
+    },
+    "author": "Star Tribune staff",
+    "title": "Thursday's prep sports results",
+    "description": "Scores and results from around the metro",
+    "url": "https://www.startribune.com/thursdays-prep-sports-results/600361778/",
+    "urlToImage": "https://www.startribune.com/static/img/branding/logos/strib-social-card.png?d=1713369823",
+    "publishedAt": "2024-04-26T03:33:57Z",
+    "content": "Badminton\r\nMINNEAPOLIS CITY\r\n Roosevelt 4, Henry 3\r\nST. PAUL CITY\r\n Como Park 6, Harding 1\r\n Johnson 5, Highland Park 2\r\n Washington 4, Central 3\r\nbaseball\r\nINDEPENDENT METRO ATHLETIC\r\n Minnehaha Aca… [+6363 chars]"
+    },
+    {
+    "source": {
+    "id": "die-zeit",
+    "name": "Die Zeit"
+    },
+    "author": "ZEIT ONLINE: Digital - Isabelle Daniel",
+    "title": "Menschenrechte: Demokratische Republik Kongo sieht \"Blutrohstoffe\" in Apple-Produkten",
+    "description": "Im rohstoffreichen Osten der DR Kongo kämpft die Regierung gegen Rebellen. Nun soll Apple auf den Vorwurf reagieren, von Menschenrechtsverletzungen zu profitieren.",
+    "url": "https://www.zeit.de/digital/2024-04/demokratische-republik-kongo-apple-rohstoffe",
+    "urlToImage": "https://img.zeit.de/digital/2024-04/dr-kongo-apple-vorwurf-bild/wide__1300x731",
+    "publishedAt": "2024-04-26T01:24:32Z",
+    "content": "Die Regierung der Demokratischen Republik Kongo hat dem US-Konzern Apple vorgeworfen, in seinen Produkten illegal ausgebeutete Rohstoffe aus dem Osten des zentralafrikanischen Landes zu verbauen. App… [+3648 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "TweakTown"
+    },
+    "author": "Kosta Andreadis",
+    "title": "Classic Diablo and StarCraft games join the GeForce NOW Cloud Gaming line-up",
+    "description": "The highly anticipated Manor Lords joins GeForce NOW this week, alongside several classic Blizzard games from the Diablo and StarCraft franchises. Continue reading at TweakTown >",
+    "url": "https://www.tweaktown.com/news/97853/classic-diablo-and-starcraft-games-join-the-geforce-now-cloud-gaming-line-up/index.html",
+    "urlToImage": "https://static.tweaktown.com/news/9/7/97853_01_classic-diablo-and-starcraft-games-join-the-geforce-now-cloud-gaming-line-up_full.jpg",
+    "publishedAt": "2024-04-26T03:02:03Z",
+    "content": "Blizzard games have started appearing on GeForce NOW, thanks to NVIDIA's cloud gaming service supporting Battle.net. As part of its weekly GFN Thursday update, NVIDIA confirmed the addition of 16 new… [+1932 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Martech.zone"
+    },
+    "author": "Douglas Karr",
+    "title": "What Is Performance Marketing? A Guide to Driving Measurable Results in 2024",
+    "description": "Performance marketing has emerged as a powerful strategy for businesses to drive measurable results and maximize their return on investment (ROI). Table of ContentsWhat is Performance Marketing?How is Performance Marketing Different?Performance Marketing Chan…",
+    "url": "https://martech.zone/what-is-performance-marketing/",
+    "urlToImage": "https://martech.zone/wp-content/uploads/2010/11/what-is-performance-marketing-trends-benefits-guide.png",
+    "publishedAt": "2024-04-26T02:42:40Z",
+    "content": "Performance marketing has emerged as a powerful strategy for businesses to drive measurable results and maximize their return on investment (ROI). \r\nPerformance marketing is a type of online marketin… [+20288 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Shiftdelete.net"
+    },
+    "author": "Tunahan Karakış",
+    "title": "Satışları adeta çakılan 110 bin TL’lik Apple Vision Pro uzatmaları oynuyor!",
+    "description": "Bu içerik ilk olarak Satışları adeta çakılan 110 bin TL’lik Apple Vision Pro uzatmaları oynuyor! adresinde yayınlandı Teknoloji Haberleri - ShiftDelete.Net.",
+    "url": "https://shiftdelete.net/apple-vision-pro-satislari-uretim-azaltma",
+    "urlToImage": "https://ares.shiftdelete.net/2024/03/apple-vision-pro-cin-tarihi1.webp",
+    "publishedAt": "2024-04-26T06:00:00Z",
+    "content": "Applen uzun yllardr beklenen karma gerçeklik gözlüü AppleVision Pro geçtiimiz aylarda nihayet sata çkt. Markann çiçei burnunda yeni AR/VR gözlüü rakiplerine kyasla daha kaliteli bir kullanc deneyimi … [+2518 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Shiftdelete.net"
+    },
+    "author": "Ahmet Safa",
+    "title": "Apple’ın başı dertte! Savaş minerali kullanmakla suçlanıyor",
+    "description": "Bu içerik ilk olarak Apple’ın başı dertte! Savaş minerali kullanmakla suçlanıyor adresinde yayınlandı Teknoloji Haberleri - ShiftDelete.Net.",
+    "url": "https://shiftdelete.net/apple-savas-minerali-kullanmakla-suclaniyor",
+    "urlToImage": "https://ares.shiftdelete.net/2024/04/apple-savas-minerali-kullanmakla-suclaniyor-e1714080316497.jpg",
+    "publishedAt": "2024-04-26T05:30:00Z",
+    "content": "Kongo Demokratik Cumhuriyeti (DRK), Apple’ ürünlerinde ülkenin dou bölgelerindeki savala balantl yasa d madenlerden çkarlan mineralleri kullanmakla suçlad. Amsterdam &amp; Partners’n temsil ettii ulu… [+1969 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Onliner.by"
+    },
+    "author": "Onliner | Технологии",
+    "title": "Wacom выпустила тонкий интерактивный OLED-планшет Movink 13",
+    "description": "Компания Wacom выпустила Movink 13 — тонкий интерактивный OLED-планшет. Новинка получила 13,3-дюймовую сенсорную матрицу Samsung с разрешением Full HD. В Wacom подчеркивают, что это самый тонкий и легкий планшет компании: он весит 420 граммов, толщина устройс…",
+    "url": "https://tech.onliner.by/2024/04/26/movink-13",
+    "urlToImage": "https://content.onliner.by/news/default/a64c524366095055d2487ea5f9e54aa5.jpg",
+    "publishedAt": "2024-04-26T06:50:18Z",
+    "content": "Wacom Movink 13 OLED-. 13,3- Samsung Full HD. Wacom , : 420 , 46,6 .\r\n 12,9- Apple iPad Pro, 682 .\r\nWacom Movink 13 Windows, macOS, ChromeOS Android, USB-C- . 100 000:1, 100% DCI-P3 95% Adobe RGB. OL… [+36 chars]"
+    }
+    ]
+    }
+    
